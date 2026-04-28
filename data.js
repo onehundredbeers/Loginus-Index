@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-27",
+    lastUpdated: "2026-04-28",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1310,6 +1310,21 @@ const LONGINUS_DATA = {
       body: "In this post, we demonstrate how to build AI agents using Strands Agents SDK with models deployed on SageMaker AI endpoints. You will learn how to deploy foundation models from SageMaker JumpStart, integrate them with Strands Agents, and establish production-grade observability using SageMaker Se...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-28-microsoft-patches-entra-id-role-flaw-tha",
+      title: "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      date: "2026-04-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its ag...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html" }
       ],
       xAccounts: [],
     },
