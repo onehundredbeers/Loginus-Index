@@ -1388,6 +1388,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-29-coby-adcock-s-scout-ai-raises-100m-to-tr",
+      title: "Coby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      date: "2026-04-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
