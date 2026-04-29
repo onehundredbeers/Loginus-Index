@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-28",
+    lastUpdated: "2026-04-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1369,6 +1369,21 @@ const LONGINUS_DATA = {
       body: "The Palantir OntologyPalantir’s software powers real-time, human-agent decision-making in many of the most critical commercial and government contexts around the world. From disaster response to nuclear energy production, our customers depend on Palantir AIP to safely, securely, and effectively l...",
       sources: [
         { title: "Palantir", url: "https://blog.palantir.com/connecting-agents-to-decisions-277dee8ddb40?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-29-coby-adcock-s-scout-ai-raises-100-millio",
+      title: "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      date: "2026-04-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/" }
       ],
       xAccounts: [],
     },
