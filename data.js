@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-29",
+    lastUpdated: "2026-04-30",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1443,6 +1443,21 @@ const LONGINUS_DATA = {
       body: "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-04-30-meta-says-its-business-ai-now-facilitate",
+      title: "Meta says its business AI now facilitates 10 million conversations a week",
+      date: "2026-04-30",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/" }
       ],
       xAccounts: [],
     },
