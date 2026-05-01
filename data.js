@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-04-30",
+    lastUpdated: "2026-05-01",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1487,6 +1487,21 @@ const LONGINUS_DATA = {
       body: "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-01-empowering-combatant-commands-the-role-o",
+      title: "Empowering Combatant Commands: The Role of Maven Smart System and Palantir Builder Bootcamps",
+      date: "2026-05-01",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","palantir"],
+      body: "Hands-On Building for Real-World ApplicationsMaven Smart System (MSS) is a proven CJADC2 system used by the Joint Staff, Combatant Commands, Armed Services, and various elements throughout the Department of War (DoW) and Intelligence Community. Powered by the Palantir Platform and backed by DoW’s...",
+      sources: [
+        { title: "Palantir", url: "https://blog.palantir.com/empowering-combatant-commands-the-role-of-maven-smart-system-and-palantir-builder-bootcamps-9e84794ce23f?source=rss----3c87dc14372f---4" }
       ],
       xAccounts: [],
     },
