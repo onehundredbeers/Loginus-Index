@@ -1506,6 +1506,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-04-30-stripe-updates-link-a-digital-wallet-tha",
+      title: "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
+      date: "2026-04-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
