@@ -1680,6 +1680,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-04-introducing-agent-quality-optimization-i",
+      title: "Introducing agent quality optimization in AgentCore, now in preview",
+      date: "2026-05-04",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Generate recommendations from production traces, validate them with batch evaluation and A/B testing, and ship with confidence. AI agents that perform well at launch don’t stay that way. As models evolve, user behavior shifts, and prompts get reused in new contexts they were never designed for. A...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
