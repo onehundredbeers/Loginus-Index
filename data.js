@@ -1651,6 +1651,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-05-openai-releases-gpt-5-5-instant-a-new-de",
+      title: "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      date: "2026-05-05",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-05-nvidia-and-servicenow-partner-on-new-aut",
+      title: "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
+      date: "2026-05-05",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","nvidia"],
+      body: "Enterprise AI has learned to generate. It has learned to reason. Now companies are asking the next question: How should AI act? Early agent systems have shown what’s possible, moving beyond simple prompts to take on more complex tasks. The next step is bringing those capabilities into enterprise ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
