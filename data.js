@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-11",
+    lastUpdated: "2026-05-12",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -1795,6 +1795,21 @@ const LONGINUS_DATA = {
       body: "Building Blocks for Foundation Model Training and Inference on AWS",
       sources: [
         { title: "Hugging Face", url: "https://huggingface.co/blog/amazon/foundation-model-building-blocks" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-12-ai-voice-startup-vapi-hits-500m-valuatio",
+      title: "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      date: "2026-05-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/" }
       ],
       xAccounts: [],
     },
