@@ -2079,6 +2079,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-19-how-to-use-google-s-new-ai-agents-to-go",
+      title: "How to use Google’s new AI agents to go beyond your standard searches",
+      date: "2026-05-19",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
