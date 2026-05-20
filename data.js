@@ -2124,6 +2124,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-20-figma-adds-an-ai-assistant-to-its-collab",
+      title: "Figma adds an AI assistant to its collaborative canvas",
+      date: "2026-05-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
