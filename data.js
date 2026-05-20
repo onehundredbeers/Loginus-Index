@@ -2109,6 +2109,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-20-microsoft-open-sources-rampart-and-clari",
+      title: "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      date: "2026-05-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and secu...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
