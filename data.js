@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-20",
+    lastUpdated: "2026-05-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2135,6 +2135,21 @@ const LONGINUS_DATA = {
       body: "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-21-jensen-huang-says-he-s-found-a-brand-new",
+      title: "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      date: "2026-05-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/" }
       ],
       xAccounts: [],
     },
