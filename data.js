@@ -2242,6 +2242,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-25-what-clickup-s-mass-layoff-tells-us-abou",
+      title: "What ClickUp’s mass layoff tells us about the future of work",
+      date: "2026-05-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
