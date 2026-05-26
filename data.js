@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-25",
+    lastUpdated: "2026-05-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2253,6 +2253,49 @@ const LONGINUS_DATA = {
       body: "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-26-how-varonis-atlas-integrates-claude-comp",
+      title: "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      date: "2026-05-26",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-26-this-startup-is-betting-india-s-gig-econ",
+      title: "This startup is betting India’s gig economy can train the world’s robots",
+      date: "2026-05-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-26-rethinking-organizational-design-in-the",
+      title: "Rethinking organizational design in the age of agentic AI",
+      date: "2026-05-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cit...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/" }
       ],
       xAccounts: [],
     },
