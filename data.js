@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-26",
+    lastUpdated: "2026-05-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2325,6 +2325,49 @@ const LONGINUS_DATA = {
       body: "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
       sources: [
         { title: "Ars Technica", url: "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-27-5-steps-to-managing-shadow-ai-tools-with",
+      title: "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      date: "2026-05-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Across most organizations today, employees are running three...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-27-robinhood-now-lets-your-ai-agents-trade",
+      title: "Robinhood now lets your AI agents trade stocks",
+      date: "2026-05-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-27-tech-ceos-are-apparently-suffering-from",
+      title: "Tech CEOs are apparently suffering from AI psychosis",
+      date: "2026-05-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-productivity","techcrunch"],
+      body: "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/" }
       ],
       xAccounts: [],
     },
