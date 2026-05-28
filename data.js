@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-05-27",
+    lastUpdated: "2026-05-28",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2413,6 +2413,21 @@ const LONGINUS_DATA = {
       body: "In this post, we share how the AWS Generative AI Innovation Center (GenAIIC) collaborated with Works Human Intelligence (WHI) to build two AI agents using Amazon Bedrock AgentCore. We discuss the challenges encountered and the solutions that reduced costs by up to 97% while improving operational ...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-05-28-sesame-the-conversational-ai-startup-fro",
+      title: "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      date: "2026-05-28",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/" }
       ],
       xAccounts: [],
     },
