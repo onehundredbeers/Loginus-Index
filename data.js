@@ -2462,6 +2462,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-28-fed-up-with-vibe-coders-dev-sneaks-data",
+      title: "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      date: "2026-05-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","ars-technica"],
+      body: "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-28-training-azerbaijani-language-models-on",
+      title: "Training Azerbaijani language models on Amazon SageMaker AI",
+      date: "2026-05-28",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","aws-ml"],
+      body: "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for telecom use cases and a customer-facing chatbot. The challenge: adapting foundation models (FMs) to a morphologically rich language with lim...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
