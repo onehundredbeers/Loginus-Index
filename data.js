@@ -2447,6 +2447,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-28-the-internet-is-being-rebuilt-for-machin",
+      title: "The internet is being rebuilt for machines",
+      date: "2026-05-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
