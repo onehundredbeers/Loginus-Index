@@ -2506,6 +2506,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-05-29-what-happens-when-companies-become-too-a",
+      title: "What happens when companies become too AI-pilled?",
+      date: "2026-05-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 20...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-05-29-after-nvidia-s-20b-not-aqui-hire-ai-chip",
+      title: "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      date: "2026-05-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
