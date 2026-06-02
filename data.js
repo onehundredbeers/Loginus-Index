@@ -2653,6 +2653,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-02-google-rolls-out-fake-call-detection-to",
+      title: "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      date: "2026-06-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","techcrunch"],
+      body: "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-02-microsoft-offers-devs-a-better-way-to-co",
+      title: "Microsoft offers devs a better way to control AI agent behavior",
+      date: "2026-06-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-02-openai-launches-new-codex-tools-for-whit",
+      title: "OpenAI launches new Codex tools for white-collar work",
+      date: "2026-06-02",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approxim...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-02-how-baz-improved-its-ai-agent-code-revie",
+      title: "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+      date: "2026-06-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
