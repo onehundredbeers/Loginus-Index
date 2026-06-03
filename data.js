@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-02",
+    lastUpdated: "2026-06-03",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2706,6 +2706,21 @@ const LONGINUS_DATA = {
       body: "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, implementation details, and the business outcomes they achieved by leveraging these AWS services to automate their code review process",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-03-google-adds-android-protection-against-a",
+      title: "Google adds Android protection against AI deepfake scam calls",
+      date: "2026-06-03",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/" }
       ],
       xAccounts: [],
     },
