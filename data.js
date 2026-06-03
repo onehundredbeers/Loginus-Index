@@ -2798,6 +2798,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-03-autonomous-ai-tool-finds-2-year-old-rce",
+      title: "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      date: "2026-06-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Re...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
