@@ -2725,6 +2725,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-03-coralogix-raises-200m-on-bet-that-someon",
+      title: "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      date: "2026-06-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-03-5-ways-google-search-can-level-up-your-t",
+      title: "5 ways Google Search can level up your thrift and vintage shopping",
+      date: "2026-06-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","google-ai"],
+      body: "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/products-and-platforms/products/search/thrifting-tips/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
