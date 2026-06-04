@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-03",
+    lastUpdated: "2026-06-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2809,6 +2809,21 @@ const LONGINUS_DATA = {
       body: "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Re...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-04-threatsday-bulletin-ai-agents-gone-wrong",
+      title: "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      date: "2026-06-04",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems....",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html" }
       ],
       xAccounts: [],
     },
