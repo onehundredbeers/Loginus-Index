@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-06",
+    lastUpdated: "2026-06-07",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2884,6 +2884,21 @@ const LONGINUS_DATA = {
       body: "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-07-nvidia-krafton-nc-and-reigning-league-of",
+      title: "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+      date: "2026-06-07",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/" }
       ],
       xAccounts: [],
     },
