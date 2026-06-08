@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-07",
+    lastUpdated: "2026-06-08",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2899,6 +2899,21 @@ const LONGINUS_DATA = {
       body: "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-08-for-the-2nd-time-in-weeks-microsoft-pack",
+      title: "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      date: "2026-06-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/" }
       ],
       xAccounts: [],
     },
