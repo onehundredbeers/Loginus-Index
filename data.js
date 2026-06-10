@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-09",
+    lastUpdated: "2026-06-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -2944,6 +2944,21 @@ const LONGINUS_DATA = {
       body: "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-09-nvidia-confidential-computing-to-help-ex",
+      title: "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      date: "2026-06-09",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-si...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/" }
       ],
       xAccounts: [],
     },
