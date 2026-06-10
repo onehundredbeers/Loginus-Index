@@ -2978,6 +2978,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-10-datadog-veterans-launch-ai-coding-startu",
+      title: "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      date: "2026-06-10",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-10-stop-hand-tuning-kernels-how-neuron-agen",
+      title: "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
+      date: "2026-06-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Today, we’re announcing the Neuron Agentic Development capabilities: a collection of AI agents and skills that make this possible for developers building on AWS Trainium and AWS Inferentia. In this post, we explain how the Neuron Agentic Development capabilities accelerate the kernel development ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-10-build-an-ai-powered-equipment-repair-ass",
+      title: "Build an AI-Powered Equipment Repair Assistant Using Amazon Bedrock AgentCore",
+      date: "2026-06-10",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "In this post, you build an AI-powered equipment repair assistant using Amazon Bedrock AgentCore that helps farmers and field technicians diagnose equipment problems, identify required parts, and access manufacturer-approved repair procedures through natural language. The solution uses AgentCore R...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
