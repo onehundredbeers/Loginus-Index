@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-10",
+    lastUpdated: "2026-06-11",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3032,6 +3032,21 @@ const LONGINUS_DATA = {
       body: "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-11-google-deepmind-is-worried-about-what-ha",
+      title: "Google DeepMind is worried about what happens when millions of agents start to interact",
+      date: "2026-06-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Google DeepMind is funding research into the potential dangers of millions of different AI agents interacting with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human over...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/" }
       ],
       xAccounts: [],
     },
