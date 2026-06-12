@@ -3111,6 +3111,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-12-agentjacking-attack-tricks-ai-coding-age",
+      title: "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      date: "2026-06-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted u...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
