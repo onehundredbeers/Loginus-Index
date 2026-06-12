@@ -3126,6 +3126,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-12-nvidia-blackwell-leads-on-first-agentic",
+      title: "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+      date: "2026-06-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-benchmark","nvidia"],
+      body: "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
