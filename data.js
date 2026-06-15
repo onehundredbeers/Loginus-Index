@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-12",
+    lastUpdated: "2026-06-15",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3137,6 +3137,49 @@ const LONGINUS_DATA = {
       body: "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance ...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-15-vibe-coders-are-gonna-vibe-code-how-ciso",
+      title: "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      date: "2026-06-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-15-salesforce-acquires-ai-customer-service",
+      title: "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      date: "2026-06-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-15-as-ai-agents-become-employees-newcore-em",
+      title: "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      date: "2026-06-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/" }
       ],
       xAccounts: [],
     },
