@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-15",
+    lastUpdated: "2026-06-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3209,6 +3209,21 @@ const LONGINUS_DATA = {
       body: "In this post, we walk you through calling the detector functions to diagnose real agent failures. You learn how to interpret their structured output: categorized failures with confidence scores, causal chains linking root causes to downstream symptoms, and fix recommendations specifying whether a...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-16-malaysia-s-ai-agent-powered-messaging-ap",
+      title: "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      date: "2026-06-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/" }
       ],
       xAccounts: [],
     },
