@@ -3333,6 +3333,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-18-openai-is-bringing-on-some-big-guns-in-t",
+      title: "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      date: "2026-06-18",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-policy","techcrunch"],
+      body: "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
