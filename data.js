@@ -3378,6 +3378,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-19-autojack-attack-lets-one-web-page-hijack",
+      title: "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      date: "2026-06-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
