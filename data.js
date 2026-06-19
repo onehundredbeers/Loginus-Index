@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-18",
+    lastUpdated: "2026-06-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3344,6 +3344,21 @@ const LONGINUS_DATA = {
       body: "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-19-forget-data-leakage-shadow-ai-s-real-thr",
+      title: "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      date: "2026-06-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html" }
       ],
       xAccounts: [],
     },
