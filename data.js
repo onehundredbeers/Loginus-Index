@@ -3481,6 +3481,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-23-fika-jobs-raises-4m-to-build-a-video-fir",
+      title: "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      date: "2026-06-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
