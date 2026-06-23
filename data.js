@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-22",
+    lastUpdated: "2026-06-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3462,6 +3462,21 @@ const LONGINUS_DATA = {
       body: "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-23-nvidia-brings-trusted-24-7-ai-agents-to",
+      title: "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      date: "2026-06-23",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/" }
       ],
       xAccounts: [],
     },
