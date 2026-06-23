@@ -3496,6 +3496,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-23-fake-ai-agent-skill-passed-security-scan",
+      title: "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      date: "2026-06-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by de...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-23-shared-infrastructure-isolated-tenants-p",
+      title: "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
+      date: "2026-06-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple clinics and hospitals.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
