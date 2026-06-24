@@ -3540,6 +3540,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-24-cerebras-stock-plunges-after-earnings-as",
+      title: "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      date: "2026-06-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
