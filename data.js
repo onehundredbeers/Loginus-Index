@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-24",
+    lastUpdated: "2026-06-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3551,6 +3551,35 @@ const LONGINUS_DATA = {
       body: "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-25-general-intuition-s-2-3b-bet-that-video",
+      title: "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      date: "2026-06-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-25-build-self-service-aws-health-analytics",
+      title: "Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock",
+      date: "2026-06-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, we show you how to build Chaplin (Customer Health and Planned Lifecycle Intelligence Nexus), an open source solution that uses AI agents exposed through the Model Context Protocol (MCP) to provide self-service health event analytics.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/" }
       ],
       xAccounts: [],
     },
