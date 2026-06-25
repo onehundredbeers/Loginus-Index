@@ -3584,6 +3584,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-25-patronus-ai-lands-50m-to-build-digital-w",
+      title: "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      date: "2026-06-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-25-notion-killing-skiff-influenced-email-ap",
+      title: "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      date: "2026-06-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "Notion is \"going all in on using agents to run your inbox.\"",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
