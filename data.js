@@ -3671,6 +3671,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-26-openai-s-jalape-o-chip-is-big-tech-s-spi",
+      title: "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      date: "2026-06-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
