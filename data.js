@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-25",
+    lastUpdated: "2026-06-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3609,6 +3609,35 @@ const LONGINUS_DATA = {
       body: "Notion is \"going all in on using agents to run your inbox.\"",
       sources: [
         { title: "Ars Technica", url: "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-26-guardian-agents-the-next-layer-of-identi",
+      title: "Guardian Agents: The Next Layer of Identity Governance",
+      date: "2026-06-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises a...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-26-the-download-brain-melting-heatwaves-and",
+      title: "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      date: "2026-06-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-restrict","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wav...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/" }
       ],
       xAccounts: [],
     },
