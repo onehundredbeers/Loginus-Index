@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-27",
+    lastUpdated: "2026-06-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3712,6 +3712,49 @@ const LONGINUS_DATA = {
       body: "An agentic coding tool tasked with running a seemingly benign GitHub repository could execute a malicious payload that is invisible to both security agents and human reviewers. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-29-agentic-ai-has-an-identity-problem-and-a",
+      title: "Agentic AI Has an Identity Problem and Attackers Know It",
+      date: "2026-06-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-29-robot-hand-company-settles-tesla-trade-s",
+      title: "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      date: "2026-06-29",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-29-agent-confidence-on-the-technical-fronti",
+      title: "Agent confidence on the technical frontier",
+      date: "2026-06-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/" }
       ],
       xAccounts: [],
     },
