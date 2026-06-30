@@ -3848,6 +3848,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-06-30-guardfall-exposes-open-source-ai-coding",
+      title: "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-06-30-x-now-offers-an-mcp-server-to-make-its-p",
+      title: "X now offers an MCP server to make its platform easier for AI tools to use",
+      date: "2026-06-30",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
