@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-29",
+    lastUpdated: "2026-06-30",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3799,6 +3799,21 @@ const LONGINUS_DATA = {
       body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls A...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-06-30-crypto-exchange-okx-wants-ai-agents-to-h",
+      title: "Crypto exchange OKX wants AI agents to hire and pay each other",
+      date: "2026-06-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/" }
       ],
       xAccounts: [],
     },
