@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-06-30",
+    lastUpdated: "2026-07-01",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3946,6 +3946,21 @@ const LONGINUS_DATA = {
       body: "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a defa...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-01-trump-drops-restrictions-on-anthropic-s",
+      title: "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      date: "2026-07-01",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-policy","techcrunch"],
+      body: "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/" }
       ],
       xAccounts: [],
     },
