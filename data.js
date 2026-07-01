@@ -3965,6 +3965,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-01-phantom-squatting-uses-ai-hallucinated-d",
+      title: "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      date: "2026-07-01",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
