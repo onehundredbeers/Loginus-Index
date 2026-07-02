@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-01",
+    lastUpdated: "2026-07-02",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -3976,6 +3976,21 @@ const LONGINUS_DATA = {
       body: "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and ...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-02-ai-agent-exploits-langflow-rce-to-automa",
+      title: "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      date: "2026-07-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the n...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html" }
       ],
       xAccounts: [],
     },
