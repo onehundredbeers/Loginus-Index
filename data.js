@@ -3995,6 +3995,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-02-identity-lifecycle-management-wasn-t-bui",
+      title: "Identity Lifecycle Management Wasn't Built for AI Agents",
+      date: "2026-07-02",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that t...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/identity-lifecycle-management.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
