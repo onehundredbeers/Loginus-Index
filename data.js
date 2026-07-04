@@ -4055,6 +4055,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-04-what-is-mistral-ai-everything-to-know-ab",
+      title: "What is Mistral AI? Everything to know about the OpenAI competitor",
+      date: "2026-07-04",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
