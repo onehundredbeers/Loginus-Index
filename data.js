@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-03",
+    lastUpdated: "2026-07-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4036,6 +4036,21 @@ const LONGINUS_DATA = {
       body: "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-04-jadepuffer-ransomware-used-ai-agent-to-a",
+      title: "JadePuffer ransomware used AI agent to automate entire attack",
+      date: "2026-07-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/" }
       ],
       xAccounts: [],
     },
