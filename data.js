@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-06",
+    lastUpdated: "2026-07-07",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4125,6 +4125,21 @@ const LONGINUS_DATA = {
       body: "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last wee...",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-07-nvidia-and-hugging-face-bring-new-models",
+      title: "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      date: "2026-07-07",
+      category: "tool",
+      severity: "tool",
+      tags: ["open-source-ai","foundation-model","nvidia"],
+      body: "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation,...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/" }
       ],
       xAccounts: [],
     },
