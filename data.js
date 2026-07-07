@@ -4144,6 +4144,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-07-weblica-scalable-and-reproducible-traini",
+      title: "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+      date: "2026-07-07",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Existing data collection attempts remain limited to offline trajectories for supervised fine-tuning or a handful of simulated environments for RL training, thus failing to ...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/weblica-visual-web-agents" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
