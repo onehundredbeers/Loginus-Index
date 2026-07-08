@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-07",
+    lastUpdated: "2026-07-08",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4170,6 +4170,49 @@ const LONGINUS_DATA = {
       body: "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-08-hot-french-startup-zml-releases-free-pro",
+      title: "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      date: "2026-07-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-chip","techcrunch"],
+      body: "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b",
+      title: "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-hackers-can-use-9-of-the-most-popular-ai",
+      title: "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      date: "2026-07-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","ars-technica"],
+      body: "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/" }
       ],
       xAccounts: [],
     },
