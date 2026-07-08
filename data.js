@@ -4261,6 +4261,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-08-ai-coding-agents-found-triggering-endpoi",
+      title: "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly li...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-new-hallusquatting-attack-could-trick-ai",
+      title: "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      date: "2026-07-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI relia...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-why-this-ceo-thinks-video-games-make-bet",
+      title: "Why this CEO thinks video games make better training data than the internet",
+      date: "2026-07-08",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time — an essential skill for producing int...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-openai-releases-new-voice-models-for-mor",
+      title: "OpenAI releases new voice models for more natural live conversations",
+      date: "2026-07-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-prime-intellect-raises-130m-series-a-to",
+      title: "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
