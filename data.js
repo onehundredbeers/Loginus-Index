@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-08",
+    lastUpdated: "2026-07-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4328,6 +4328,49 @@ const LONGINUS_DATA = {
       body: "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-08-google-s-deepfake-detector-system-used-t",
+      title: "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      date: "2026-07-08",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","techcrunch"],
+      body: "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-spacexai-releases-grok-4-5-which-elon-de",
+      title: "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      date: "2026-07-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-08-this-startup-thinks-robotics-is-about-to",
+      title: "This startup thinks robotics is about to have its ChatGPT moment",
+      date: "2026-07-08",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","techcrunch"],
+      body: "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/" }
       ],
       xAccounts: [],
     },
