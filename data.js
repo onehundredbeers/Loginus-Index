@@ -4433,6 +4433,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-09-an-ai-agent-startup-just-let-its-agent-r",
+      title: "An AI agent startup just let its agent run its $100 million fundraise",
+      date: "2026-07-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-09-meta-enters-the-crowded-ai-coding-battle",
+      title: "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      date: "2026-07-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
