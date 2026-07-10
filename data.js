@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-09",
+    lastUpdated: "2026-07-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4458,6 +4458,49 @@ const LONGINUS_DATA = {
       body: "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-10-the-replicant-in-your-directory-ai-agent",
+      title: "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      date: "2026-07-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-for",
+      title: "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      date: "2026-07-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-10-hugging-face-s-ceo-on-why-companies-are",
+      title: "Hugging Face’s CEO on why companies are done renting their AI",
+      date: "2026-07-10",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/" }
       ],
       xAccounts: [],
     },
