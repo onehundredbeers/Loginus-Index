@@ -4637,6 +4637,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-14-meta-s-adam-mosseri-says-ai-token-budget",
+      title: "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      date: "2026-07-14",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
