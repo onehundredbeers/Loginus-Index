@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-13",
+    lastUpdated: "2026-07-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4603,6 +4603,21 @@ const LONGINUS_DATA = {
       body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s ...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-14-the-download-claude-s-inner-workings-and",
+      title: "The Download: Claude’s inner workings, and the future of world models",
+      date: "2026-07-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-discovery","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O Donnell When Anthropic announced last week that it had found a new window into its models’ ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/" }
       ],
       xAccounts: [],
     },
