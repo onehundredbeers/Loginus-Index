@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-14",
+    lastUpdated: "2026-07-15",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4648,6 +4648,21 @@ const LONGINUS_DATA = {
       body: "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-15-openai-researcher-miles-wang-in-talks-to",
+      title: "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      date: "2026-07-15",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-drug","techcrunch"],
+      body: "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/" }
       ],
       xAccounts: [],
     },
