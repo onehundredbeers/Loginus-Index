@@ -4740,6 +4740,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-15-amid-hardware-legal-battle-openai-releas",
+      title: "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      date: "2026-07-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
