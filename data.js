@@ -4710,6 +4710,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-15-hack-suggests-ai-music-generator-suno-sc",
+      title: "Hack suggests AI music generator Suno scraped YouTube for training data",
+      date: "2026-07-15",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
