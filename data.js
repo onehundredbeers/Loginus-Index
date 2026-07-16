@@ -4829,6 +4829,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-16-claude-chrome-extension-flaw-lets-malici",
+      title: "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      date: "2026-07-16",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-act","bleepingcomputer"],
+      body: "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
