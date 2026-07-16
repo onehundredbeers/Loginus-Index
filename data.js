@@ -4785,6 +4785,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-16-ai-agents-broke-the-security-playbook-he",
+      title: "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      date: "2026-07-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
