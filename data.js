@@ -4859,6 +4859,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-17-vertu-wants-executives-to-pay-6-880-for",
+      title: "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      date: "2026-07-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
