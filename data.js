@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-16",
+    lastUpdated: "2026-07-17",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4840,6 +4840,21 @@ const LONGINUS_DATA = {
       body: "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-17-when-unlearning-is-free-leveraging-low-i",
+      title: "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+      date: "2026-07-17",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "As concerns around data privacy in machine learning grow, the ability to unlearn—or remove—specific data points from trained models becomes increasingly important. While state-of-the-art unlearning methods have emerged in response, they typically treat all points in the forget set equally. In thi...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/unlearning-free-low-influence" }
       ],
       xAccounts: [],
     },
