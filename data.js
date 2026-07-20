@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-18",
+    lastUpdated: "2026-07-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4885,6 +4885,21 @@ const LONGINUS_DATA = {
       body: "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-20-world-s-largest-ai-model-repository-hugg",
+      title: "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      date: "2026-07-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We iden...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html" }
       ],
       xAccounts: [],
     },
