@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-20",
+    lastUpdated: "2026-07-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -4930,6 +4930,63 @@ const LONGINUS_DATA = {
       body: "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-20-cursor-codex-gemini-cli-antigravity-hit",
+      title: "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      date: "2026-07-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-20-jadepuffer-agentic-attacks-now-target-ai",
+      title: "JadePuffer agentic attacks now target AI model data with ransomware",
+      date: "2026-07-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","bleepingcomputer"],
+      body: "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-20-google-is-working-on-a-new-ai-chip-desig",
+      title: "Google is working on a new AI chip designed to make Gemini more efficient",
+      date: "2026-07-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-20-length-value-model-scalable-value-pretra",
+      title: "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+      date: "2026-07-20",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","apple-ml"],
+      body: "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, existing approaches lack fine-grained length modeling, operating primarily at the coarse-grained se...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/length-value-model" }
       ],
       xAccounts: [],
     },
