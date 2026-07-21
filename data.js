@@ -5021,6 +5021,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-21-jack-dorsey-is-taking-on-slack-with-buzz",
+      title: "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      date: "2026-07-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
