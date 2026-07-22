@@ -5051,6 +5051,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-22-cisa-orders-urgent-action-on-actively-ex",
+      title: "CISA orders urgent action on actively exploited Langflow RCE flaw",
+      date: "2026-07-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-22-glow-emerges-from-stealth-at-1-2b-valuat",
+      title: "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      date: "2026-07-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-22-ai-teammates-how-monday-com-runs-product",
+      title: "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+      date: "2026-07-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","ai-coding","aws-ml"],
+      body: "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a year ago. Per-engineer PR throughput is up by more than half. Every figure in thi...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
