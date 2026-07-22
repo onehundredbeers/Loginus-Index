@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-21",
+    lastUpdated: "2026-07-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5032,6 +5032,21 @@ const LONGINUS_DATA = {
       body: "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-22-microsoft-azure-devops-mcp-flaw-lets-hid",
+      title: "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      date: "2026-07-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html" }
       ],
       xAccounts: [],
     },
