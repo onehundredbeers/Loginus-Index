@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-22",
+    lastUpdated: "2026-07-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5105,6 +5105,35 @@ const LONGINUS_DATA = {
       body: "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-23-claude-cowork-flaw-could-let-ai-agent-es",
+      title: "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      date: "2026-07-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of t...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-23-ai-chip-startup-etched-defies-skeptics-h",
+      title: "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      date: "2026-07-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/" }
       ],
       xAccounts: [],
     },
