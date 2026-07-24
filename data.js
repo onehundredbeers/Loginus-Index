@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-23",
+    lastUpdated: "2026-07-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5206,6 +5206,35 @@ const LONGINUS_DATA = {
       body: "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-24-seeing-ai-agents-is-not-enough-security",
+      title: "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      date: "2026-07-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering t...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-24-hacker-runs-hermes-ai-agent-unattended-f",
+      title: "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      date: "2026-07-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's ne...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html" }
       ],
       xAccounts: [],
     },
