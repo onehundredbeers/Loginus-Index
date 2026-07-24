@@ -5254,6 +5254,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-24-why-cognition-bought-poke-ai-personality",
+      title: "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      date: "2026-07-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assist...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
