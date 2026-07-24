@@ -5269,6 +5269,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-24-hermes-ai-agent-used-to-automate-attack",
+      title: "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      date: "2026-07-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
