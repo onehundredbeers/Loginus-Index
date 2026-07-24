@@ -5239,6 +5239,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-24-slopsquatting-phantom-domains-and-hallus",
+      title: "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+      date: "2026-07-24",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-attack","bleepingcomputer"],
+      body: "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before ma...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
