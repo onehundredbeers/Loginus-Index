@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-24",
+    lastUpdated: "2026-07-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5280,6 +5280,21 @@ const LONGINUS_DATA = {
       body: "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-26-hugging-face-ceo-calls-for-radical-trans",
+      title: "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      date: "2026-07-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","techcrunch"],
+      body: "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/" }
       ],
       xAccounts: [],
     },
