@@ -5314,6 +5314,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-27--weekly-recap-rogue-ai-agents-check-poin",
+      title: "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      date: "2026-07-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. T...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-27-shadow-ai-agents-are-multiplying-here-s",
+      title: "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      date: "2026-07-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-27-the-path-to-artificial-superintelligence",
+      title: "The path to artificial superintelligence",
+      date: "2026-07-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-27-ai-sovereignty-is-your-alpha-how-to-avoi",
+      title: "AI Sovereignty is Your Alpha: How to Avoid Transferring Your Alpha to a Hosted Model Provider",
+      date: "2026-07-27",
+      category: "tool",
+      severity: "tool",
+      tags: ["open-source-model","palantir"],
+      body: "Use of third party AI model services poses significant risk to your alpha. Without sovereign control over how your data is processed by those services (either the AI Labs or the Hyperscalers, collectively referred to as “Hosted Model Providers”), Hosted Model Providers may extract your alpha (you...",
+      sources: [
+        { title: "Palantir", url: "https://blog.palantir.com/ai-sovereignty-is-your-alpha-how-to-avoid-transferring-your-alpha-to-a-hosted-model-provider-774a1b35bf98?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
