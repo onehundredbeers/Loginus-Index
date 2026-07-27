@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-26",
+    lastUpdated: "2026-07-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5295,6 +5295,21 @@ const LONGINUS_DATA = {
       body: "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-27-industry-leaders-unite-in-open-secure-ai",
+      title: "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+      date: "2026-07-27",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","nvidia"],
+      body: "Open source software is a critical pillar of the global economy. It underpins cloud computing, financial services, manufacturing, telecommunications, government and internet services by making technology accessible and observable to communities of experts. Cybersecurity is among the top three ben...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/open-secure-ai-alliance/" }
       ],
       xAccounts: [],
     },
