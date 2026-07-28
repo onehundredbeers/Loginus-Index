@@ -5386,6 +5386,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-28-we-now-have-a-better-understanding-how-o",
+      title: "We now have a better understanding how OpenAI hacked into Hugging Face",
+      date: "2026-07-28",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","ars-technica"],
+      body: "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-28-memory-efficient-audio-synthesis-with-de",
+      title: "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+      date: "2026-07-28",
+      category: "win",
+      severity: "win",
+      tags: ["quantization","foundation-model","apple-ml"],
+      body: "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple’s most powerful on-device foundation model. This work presents the memory-efficient audio synthesis architecture behind that capability: a detokenizer that conver...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
