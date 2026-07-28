@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-27",
+    lastUpdated: "2026-07-28",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5367,6 +5367,21 @@ const LONGINUS_DATA = {
       body: "Use of third party AI model services poses significant risk to your alpha. Without sovereign control over how your data is processed by those services (either the AI Labs or the Hyperscalers, collectively referred to as “Hosted Model Providers”), Hosted Model Providers may extract your alpha (you...",
       sources: [
         { title: "Palantir", url: "https://blog.palantir.com/ai-sovereignty-is-your-alpha-how-to-avoid-transferring-your-alpha-to-a-hosted-model-provider-774a1b35bf98?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-28-5-ways-ai-mode-in-search-helps-you-enjoy",
+      title: "5 ways AI Mode in Search helps you enjoy the real world",
+      date: "2026-07-28",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","google-ai"],
+      body: "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/" }
       ],
       xAccounts: [],
     },
