@@ -5502,6 +5502,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opp",
+      title: "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-29-thinking-machines-co-founder-lilian-weng",
+      title: "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      date: "2026-07-29",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
