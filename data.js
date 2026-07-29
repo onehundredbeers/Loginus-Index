@@ -5430,6 +5430,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-29-openai-agent-used-exposed-credentials-ac",
+      title: "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security i...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
