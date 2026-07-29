@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-28",
+    lastUpdated: "2026-07-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5411,6 +5411,21 @@ const LONGINUS_DATA = {
       body: "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple’s most powerful on-device foundation model. This work presents the memory-efficient audio synthesis architecture behind that capability: a detokenizer that conver...",
       sources: [
         { title: "Apple ML", url: "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-29-cyera-agrees-to-acquire-oasis-security-f",
+      title: "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The deal is Cyera's third acquisition this year.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/" }
       ],
       xAccounts: [],
     },
