@@ -5445,6 +5445,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-07-29-openai-agent-used-exposed-credentials-at",
+      title: "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-29-your-ai-agents-are-guessing-at-scale-per",
+      title: "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-29-encore-ai-raises-30m-to-build-ai-agents",
+      title: "Encore AI raises $30M to build AI agents that learn from customer calls",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-29-generate-autonomous-business-insights-wi",
+      title: "Generate Autonomous Business Insights with AI Agent and MCP Servers",
+      date: "2026-07-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how Amazon Bedrock AgentCore delivers autonomous, cross-system business intelligence through configuration rather than custom code. Using pre-built MCP server connectors, fine-grained access control, and persistent memory, enterprises can query multiple data sources with natural language wh...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
