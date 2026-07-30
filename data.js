@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-07-29",
+    lastUpdated: "2026-07-30",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5542,6 +5542,63 @@ const LONGINUS_DATA = {
       body: "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-07-30-okta-buys-ai-security-startup-permiso-so",
+      title: "Okta buys AI security startup Permiso; source says for about $200M",
+      date: "2026-07-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-30-in-the-hugging-face-breach-openai-s-hack",
+      title: "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      date: "2026-07-30",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","techcrunch"],
+      body: "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-30-dili-raises-21-7m-to-bring-ai-compliance",
+      title: "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      date: "2026-07-30",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-compliance","techcrunch"],
+      body: "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-07-30-introducing-explicit-prompt-caching-for",
+      title: "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
+      date: "2026-07-30",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","aws-ml"],
+      body: "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which parts of your prompt are cached and reused. Learn how to get started, set up explicit caching, and migrate existing GPT workloads to redu...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/" }
       ],
       xAccounts: [],
     },
