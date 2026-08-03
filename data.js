@@ -5663,6 +5663,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-03-congress-s-favorite-ai-tool-chatgpt",
+      title: "Congress’s favorite AI tool? ChatGPT",
+      date: "2026-08-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
