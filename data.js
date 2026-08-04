@@ -5708,6 +5708,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-04-varonis-agent-ibac-keeps-ai-agents-withi",
+      title: "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      date: "2026-08-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-03-inside-our-353-000-person-vibe-coding-co",
+      title: "Inside our 353,000-person vibe coding course",
+      date: "2026-08-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","google-ai"],
+      body: "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
