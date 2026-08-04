@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-03",
+    lastUpdated: "2026-08-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5689,6 +5689,21 @@ const LONGINUS_DATA = {
       body: "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-04-google-deletes-3-adk-ai-workflows-after",
+      title: "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      date: "2026-08-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into pos...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html" }
       ],
       xAccounts: [],
     },
