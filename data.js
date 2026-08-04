@@ -5737,6 +5737,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-04-nvidia-doesn-t-mess-around-a-week-after",
+      title: "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      date: "2026-08-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-04-introducing-web-search-on-amazon-bedrock",
+      title: "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+      date: "2026-08-04",
+      category: "tool",
+      severity: "tool",
+      tags: ["foundation-model","aws-ml"],
+      body: "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native capability of Amazon Bedrock, with no third-party vendors to onboard, no externa...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
