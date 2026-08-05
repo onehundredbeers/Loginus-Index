@@ -5796,6 +5796,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-05-how-mobileye-transformed-support-operati",
+      title: "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+      date: "2026-08-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea, through the proof of concept that validated it, to the hybrid architecture that bridges on-premises systems with AWS cloud services. Th...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-05-how-we-built-an-mcp-bridge-to-give-our-a",
+      title: "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+      date: "2026-08-05",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a cloud-hosted agent call local MCP servers by tunneling signed messages over the existing WebSocket connection through a browser extension an...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-05-run-production-ai-agents-in-n8n-with-ama",
+      title: "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+      date: "2026-08-05",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and build agents with persistent memory, real tools, code execution, and VPC isolation — all from the n8n editor with no infrastructure or age...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
