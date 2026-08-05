@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-04",
+    lastUpdated: "2026-08-05",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5762,6 +5762,21 @@ const LONGINUS_DATA = {
       body: "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current web knowledge. With Web Search, grounding becomes a native capability of Amazon Bedrock, with no third-party vendors to onboard, no externa...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-04-openai-anthropic-ai-agents-targeted-real",
+      title: "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      date: "2026-08-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/" }
       ],
       xAccounts: [],
     },
