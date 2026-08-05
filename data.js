@@ -5839,6 +5839,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-05-meta-launches-muse-code-an-ai-agent-for",
+      title: "Meta launches Muse Code, an AI agent for large code bases",
+      date: "2026-08-05",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","techcrunch"],
+      body: "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-05-klaviyo-acquires-elias-torres-agency-in",
+      title: "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      date: "2026-08-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
