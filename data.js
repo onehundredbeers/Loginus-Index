@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-05",
+    lastUpdated: "2026-08-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5864,6 +5864,49 @@ const LONGINUS_DATA = {
       body: "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-06-into-the-omniverse-how-open-world-models",
+      title: "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      date: "2026-08-06",
+      category: "win",
+      severity: "win",
+      tags: ["open-weights","nvidia"],
+      body: "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/open-world-models-physical-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-06-securing-ai-agents-with-temporal-policie",
+      title: "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
+      date: "2026-08-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforce workflow sequencing, prevent data fabrication, cap financial exposure, and require human approval for high-value actions.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-06-control-agent-behaviors-and-cost-beyond",
+      title: "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
+      date: "2026-08-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiting on the gateway. These features give you deterministic control over sequences of agent actions and cost ceilings that hold regardless o...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/" }
       ],
       xAccounts: [],
     },
