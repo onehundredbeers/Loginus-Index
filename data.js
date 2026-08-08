@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-07",
+    lastUpdated: "2026-08-08",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5922,6 +5922,21 @@ const LONGINUS_DATA = {
       body: "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-08-new-css-attacks-can-break-webmail-defens",
+      title: "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      date: "2026-08-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hi...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html" }
       ],
       xAccounts: [],
     },
