@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-08",
+    lastUpdated: "2026-08-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5937,6 +5937,21 @@ const LONGINUS_DATA = {
       body: "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hi...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-09-the-ai-safety-test-is-becoming-a-safety",
+      title: "The AI safety test is becoming a safety risk",
+      date: "2026-08-09",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/" }
       ],
       xAccounts: [],
     },
