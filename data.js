@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-09",
+    lastUpdated: "2026-08-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -5952,6 +5952,21 @@ const LONGINUS_DATA = {
       body: "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-10-the-download-ai-agents-for-science-and-t",
+      title: "The Download: AI agents for science, and the “censorship-industrial complex”",
+      date: "2026-08-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/" }
       ],
       xAccounts: [],
     },
