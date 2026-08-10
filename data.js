@@ -6015,6 +6015,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-10-openai-releases-chatgpt-5-6-cyber-but-it",
+      title: "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      date: "2026-08-10",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","bleepingcomputer"],
+      body: "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
