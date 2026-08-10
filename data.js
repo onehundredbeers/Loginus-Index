@@ -5986,6 +5986,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-10-build-low-latency-multilingual-voice-age",
+      title: "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      date: "2026-08-10",
+      category: "win",
+      severity: "win",
+      tags: ["open-weights","hugging-face"],
+      body: "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-10-how-nops-shipped-finops-agents-75-faster",
+      title: "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+      date: "2026-08-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time-to-production by 75% (from 10-12 months to 4 months), improved response quality, and reduced operational overhead while keeping analytic...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
