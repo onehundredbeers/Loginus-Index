@@ -5971,6 +5971,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-10-evolve-your-marketing-with-new-ai-tools",
+      title: "Evolve your marketing with new AI tools",
+      date: "2026-08-10",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","google-ai"],
+      body: "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
