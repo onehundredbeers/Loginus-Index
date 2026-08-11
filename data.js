@@ -6060,6 +6060,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-11-how-onestruction-built-the-ishigaki-ids",
+      title: "How ONESTRUCTION built the Ishigaki-IDS foundation model with AWS GenAIIC",
+      date: "2026-08-11",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "ONESTRUCTION, with technical advisory from the AWS Generative AI Innovation Center, built Ishigaki-IDS, a foundation model specialized for construction and BIM workflows. This architectural case study shows how they combined synthetic data, a three-stage training pipeline, and verifiable rewards ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
