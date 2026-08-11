@@ -6075,6 +6075,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-11-researchers-disclose-ai-assisted-sharepo",
+      title: "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      date: "2026-08-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
