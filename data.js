@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-10",
+    lastUpdated: "2026-08-11",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6026,6 +6026,21 @@ const LONGINUS_DATA = {
       body: "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-11-malicious-mcp-servers-can-split-instruct",
+      title: "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      date: "2026-08-11",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html" }
       ],
       xAccounts: [],
     },
