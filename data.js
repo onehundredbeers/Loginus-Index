@@ -6120,6 +6120,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-12-as-ai-safety-concerns-mount-three-pionee",
+      title: "As AI safety concerns mount, three pioneers make the case for staying open",
+      date: "2026-08-12",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-12-scaling-ai-agents-with-trustworthy-data",
+      title: "Scaling AI agents with trustworthy data",
+      date: "2026-08-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinge...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
