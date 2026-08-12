@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-11",
+    lastUpdated: "2026-08-12",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6086,6 +6086,21 @@ const LONGINUS_DATA = {
       body: "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription ...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-12-malicious-litellm-releases-tied-to-trivy",
+      title: "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      date: "2026-08-12",
+      category: "tool",
+      severity: "tool",
+      tags: ["llm-release","the-hacker-news"],
+      body: "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html" }
       ],
       xAccounts: [],
     },
