@@ -6208,6 +6208,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-13-anthropic-set-ai-agents-loose-on-the-sam",
+      title: "Anthropic set AI agents loose on the same task. They started a turf war.",
+      date: "2026-08-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
