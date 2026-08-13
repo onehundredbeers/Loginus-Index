@@ -6179,6 +6179,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-13-monitor-on-premises-and-multi-cloud-ai-a",
+      title: "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
+      date: "2026-08-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses the AWS Distro for OpenTelemetry (ADOT) and IAM credentials to route session traces, span metrics, and token usage to the same AgentCore ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-13-when-unlearning-is-free-leveraging-low-i",
+      title: "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+      date: "2026-08-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "As concerns around data privacy in machine learning grow, the ability to unlearn, or remove, specific data points from trained models becomes increasingly important. While state of the art unlearning methods have emerged in response, they typically treat all points in the forget set equally. In t...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/unlearning-low-influence-points" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
