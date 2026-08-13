@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-12",
+    lastUpdated: "2026-08-13",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6160,6 +6160,21 @@ const LONGINUS_DATA = {
       body: "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-13-who-vets-ai-s-code-the-scale-challenge-f",
+      title: "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+      date: "2026-08-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","bleepingcomputer"],
+      body: "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/" }
       ],
       xAccounts: [],
     },
