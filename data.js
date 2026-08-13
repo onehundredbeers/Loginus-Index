@@ -6223,6 +6223,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-13-writer-introduces-new-ai-model-and-upgra",
+      title: "Writer introduces new AI model and upgraded harness to contain token costs",
+      date: "2026-08-13",
+      category: "win",
+      severity: "win",
+      tags: ["new-ai-model","techcrunch"],
+      body: "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
