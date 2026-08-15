@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-13",
+    lastUpdated: "2026-08-15",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6234,6 +6234,21 @@ const LONGINUS_DATA = {
       body: "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-15-spacex-officially-closes-its-cursor-acqu",
+      title: "SpaceX officially closes its Cursor acquisition",
+      date: "2026-08-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "AI coding startup Cursor is now officially a part of SpaceX.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/" }
       ],
       xAccounts: [],
     },
