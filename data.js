@@ -6253,6 +6253,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-15-woman-claims-her-stepfather-used-grok-to",
+      title: "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      date: "2026-08-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
