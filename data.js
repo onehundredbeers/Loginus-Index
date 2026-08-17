@@ -6283,6 +6283,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-17-groq-raises-350m-to-fuel-its-pivot-from",
+      title: "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      date: "2026-08-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
