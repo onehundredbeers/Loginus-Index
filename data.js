@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-15",
+    lastUpdated: "2026-08-17",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6264,6 +6264,21 @@ const LONGINUS_DATA = {
       body: "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-17-how-mcp-servers-can-expose-enterprise-se",
+      title: "How MCP Servers Can Expose Enterprise Secrets",
+      date: "2026-08-17",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in M...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html" }
       ],
       xAccounts: [],
     },
