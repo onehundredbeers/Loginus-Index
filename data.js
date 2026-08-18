@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-17",
+    lastUpdated: "2026-08-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6294,6 +6294,21 @@ const LONGINUS_DATA = {
       body: "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-18-how-axonius-built-secure-multi-tenant-ai",
+      title: "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+      date: "2026-08-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how Axonius, a cybersecurity SaaS provider, used Amazon Bedrock AgentCore to deploy fully isolated, multi-tenant AI agents across hundreds of customer environments, without building custom compute isolation, authentication, or observability infrastructure from scratch.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/" }
       ],
       xAccounts: [],
     },
