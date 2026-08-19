@@ -6358,6 +6358,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-19-openai-pauses-frontier-rl-training-as-it",
+      title: "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      date: "2026-08-19",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-pause","the-hacker-news"],
+      body: "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capa...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
