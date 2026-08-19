@@ -6343,6 +6343,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-19-the-p-completeness-of-inverted-index-tra",
+      title: "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
+      date: "2026-08-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","apple-ml"],
+      body: "Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean queries over text fields. However, standard query evaluation strategies over inverted indices face severe the...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
