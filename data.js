@@ -6373,6 +6373,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-19-cognition-ceo-denies-report-that-spacex",
+      title: "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      date: "2026-08-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-19-asynchronous-patterns-for-calling-amazon",
+      title: "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+      date: "2026-08-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
