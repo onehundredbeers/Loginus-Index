@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-18",
+    lastUpdated: "2026-08-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6324,6 +6324,21 @@ const LONGINUS_DATA = {
       body: "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-agnostic payment orchestration, and production-ready observability.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-19-lfm2-5-q4-0-checkpoints-from-quantizatio",
+      title: "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      date: "2026-08-19",
+      category: "win",
+      severity: "win",
+      tags: ["quantization","hugging-face"],
+      body: "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/LiquidAI/qad" }
       ],
       xAccounts: [],
     },
