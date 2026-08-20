@@ -6417,6 +6417,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-20-why-shady-ai-is-security-s-next-big-gove",
+      title: "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      date: "2026-08-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI ag...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
