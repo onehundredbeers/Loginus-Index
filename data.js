@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-19",
+    lastUpdated: "2026-08-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6398,6 +6398,21 @@ const LONGINUS_DATA = {
       body: "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step Functions pipelines, eliminating idle compute costs while your AI agent processes requests.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-20-binance-now-lets-ai-agents-trade-but-kee",
+      title: "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      date: "2026-08-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/" }
       ],
       xAccounts: [],
     },
