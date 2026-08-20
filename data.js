@@ -6432,6 +6432,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-20-multilingual-knowledge-transfer-under-da",
+      title: "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+      date: "2026-08-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and wo...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
