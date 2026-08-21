@@ -6520,6 +6520,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-21-the-download-threats-from-space-mirrors",
+      title: "The Download: threats from space mirrors and credit for AI drugs",
+      date: "2026-08-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-drug","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
