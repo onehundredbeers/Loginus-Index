@@ -6535,6 +6535,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-21-agentic-data-operations-platform-adop-da",
+      title: "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+      date: "2026-08-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance contr...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-21-govern-ai-agent-tool-access-with-amazon",
+      title: "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
+      date: "2026-08-21",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governa...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
