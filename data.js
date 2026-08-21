@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-20",
+    lastUpdated: "2026-08-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6487,6 +6487,35 @@ const LONGINUS_DATA = {
       body: "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now including time-based constraints. This post shows how Policy Authoring turns natural-language policy documents into correct Dogwood policies...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-21-ai-data-startup-micro1-reaches-500m-gros",
+      title: "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      date: "2026-08-21",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-20-progressive-refinement-an-iterative-pseu",
+      title: "Progressive Refinement: An Iterative Pseudo-Labeling Approach for Mandarin-English Code-Switching ASR",
+      date: "2026-08-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "Code-switching (CS), alternating languages within the same utterance, poses significant challenges for automatic speech recognition (ASR) due to limited CS training data. This paper applies an iterative pseudo-labeling training approach to CS-ASR for the first time, demonstrating its effectivenes...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling" }
       ],
       xAccounts: [],
     },
