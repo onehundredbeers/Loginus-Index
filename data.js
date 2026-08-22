@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-21",
+    lastUpdated: "2026-08-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6575,6 +6575,21 @@ const LONGINUS_DATA = {
       body: "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-22-openai-says-california-should-strengthen",
+      title: "OpenAI says California should strengthen its AI safety bill",
+      date: "2026-08-22",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/" }
       ],
       xAccounts: [],
     },
