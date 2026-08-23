@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-22",
+    lastUpdated: "2026-08-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6605,6 +6605,21 @@ const LONGINUS_DATA = {
       body: "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-23-is-it-legal-to-train-ai-models-on-copyri",
+      title: "Is it legal to train AI models on copyrighted books? It’s complicated",
+      date: "2026-08-23",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/" }
       ],
       xAccounts: [],
     },
