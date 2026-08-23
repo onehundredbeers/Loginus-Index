@@ -6624,6 +6624,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-23-who-s-behind-the-new-stealth-model-ox-al",
+      title: "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      date: "2026-08-23",
+      category: "win",
+      severity: "win",
+      tags: ["new-ai-model","techcrunch"],
+      body: "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
