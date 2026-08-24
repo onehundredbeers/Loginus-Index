@@ -6654,6 +6654,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-24-valor-point72-back-general-intuition-at",
+      title: "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      date: "2026-08-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","foundation-model","techcrunch"],
+      body: "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-24-openai-is-building-ai-agents-for-everyth",
+      title: "OpenAI is building AI agents for everything. Will everyone use them?",
+      date: "2026-08-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-24-up-to-30x-more-work-per-watt-nvidia-vera",
+      title: "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      date: "2026-08-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer com...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-24-building-a-restaurant-telephony-ai-host",
+      title: "Building a restaurant telephony AI host with Amazon Connect",
+      date: "2026-08-24",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazo...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
