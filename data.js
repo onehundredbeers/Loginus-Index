@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-23",
+    lastUpdated: "2026-08-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6635,6 +6635,21 @@ const LONGINUS_DATA = {
       body: "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-24-shipping-more-ai-code-than-you-can-secur",
+      title: "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      date: "2026-08-24",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. Mor...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html" }
       ],
       xAccounts: [],
     },
