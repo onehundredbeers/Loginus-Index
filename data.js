@@ -6740,6 +6740,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-25-a-malicious-webpage-could-poison-your-lo",
+      title: "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      date: "2026-08-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
