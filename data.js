@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-24",
+    lastUpdated: "2026-08-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6707,6 +6707,35 @@ const LONGINUS_DATA = {
       body: "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazo...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-25-accel-backed-keenable-is-indexing-the-we",
+      title: "Accel-backed Keenable is indexing the web for AI agents",
+      date: "2026-08-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-25-quantization-aware-healing-a-compressed",
+      title: "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      date: "2026-08-25",
+      category: "win",
+      severity: "win",
+      tags: ["quantization","hugging-face"],
+      body: "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing" }
       ],
       xAccounts: [],
     },
