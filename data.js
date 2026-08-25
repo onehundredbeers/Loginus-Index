@@ -6770,6 +6770,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-25-anonymouskit-phaas-uses-voice-ai-agents",
+      title: "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      date: "2026-08-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
