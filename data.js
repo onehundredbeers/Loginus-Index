@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-25",
+    lastUpdated: "2026-08-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6781,6 +6781,21 @@ const LONGINUS_DATA = {
       body: "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-26-openai-bans-russian-chatgpt-accounts-use",
+      title: "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      date: "2026-08-26",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-ban","the-hacker-news"],
+      body: "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html" }
       ],
       xAccounts: [],
     },
