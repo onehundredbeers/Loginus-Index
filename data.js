@@ -6829,6 +6829,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-26-radar-makes-podcasts-searchable-and-usab",
+      title: "Radar makes podcasts searchable — and usable by AI agents",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
