@@ -6800,6 +6800,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-26-arga-labs-is-building-a-better-way-to-tr",
+      title: "Arga Labs is building a better way to train enterprise AI agents",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-26-runable-hits-21m-to-bet-ai-agents-can-go",
+      title: "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
