@@ -6844,6 +6844,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-26-openai-releases-its-official-report-on-t",
+      title: "OpenAI releases its official report on the Hugging Face breach",
+      date: "2026-08-26",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-26-the-inside-story-on-why-openai-agents-ha",
+      title: "The inside story on why OpenAI agents hacked Hugging Face",
+      date: "2026-08-26",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they w...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-26-nvidia-nvlink-fusion-expands-with-nvhbm",
+      title: "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-26-evaluate-any-agent-framework-with-amazon",
+      title: "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This p...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
