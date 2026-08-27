@@ -6944,6 +6944,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-27-openai-says-reward-hacking-drove-ai-agen",
+      title: "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-27-nearly-700-rogue-ai-agents-coordinated-i",
+      title: "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-27-plaud-s-new-earphones-come-with-an-esim",
+      title: "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-27-nvidia-closes-in-on-hugging-face-acquisi",
+      title: "Nvidia closes in on Hugging Face acquisition",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-27-reduce-asr-inference-costs-by-75-with-nv",
+      title: "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","aws-ml"],
+      body: "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Server on Amazon EC2 GPU instances cuts GPU infrastructure by 75% while holding sub-second latency a...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
