@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-26",
+    lastUpdated: "2026-08-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -6897,6 +6897,49 @@ const LONGINUS_DATA = {
       body: "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This p...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-27-the-download-inside-openai-s-hugging-fac",
+      title: "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-27-how-openai-let-a-mob-of-llm-agents-game",
+      title: "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      date: "2026-08-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-26-ai-agents-meant-to-replace-meta-workers",
+      title: "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      date: "2026-08-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "Report shows Meta's challenges replacing people with AI agents.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/" }
       ],
       xAccounts: [],
     },
