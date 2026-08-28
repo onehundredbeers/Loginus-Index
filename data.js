@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-27",
+    lastUpdated: "2026-08-28",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7011,6 +7011,35 @@ const LONGINUS_DATA = {
       body: "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Server on Amazon EC2 GPU instances cuts GPU infrastructure by 75% while holding sub-second latency a...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-28-neocloud-lambda-secures-1b-in-debt-to-bu",
+      title: "Neocloud Lambda secures $1B in debt to buy more chips",
+      date: "2026-08-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-28-agent-seer-synthesizing-scenarios-from-s",
+      title: "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+      date: "2026-08-28",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","apple-ml"],
+      body: "Evaluating AI agents that use external tools requires realistic test scenarios that capture how practitioners compose tools and iterate across conversation turns. Constructing such scenarios by hand demands deep domain expertise, does not scale across tool ecosystems, and produces static benchmar...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios" }
       ],
       xAccounts: [],
     },
