@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-28",
+    lastUpdated: "2026-08-31",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7040,6 +7040,21 @@ const LONGINUS_DATA = {
       body: "Evaluating AI agents that use external tools requires realistic test scenarios that capture how practitioners compose tools and iterate across conversation turns. Constructing such scenarios by hand demands deep domain expertise, does not scale across tool ecosystems, and produces static benchmar...",
       sources: [
         { title: "Apple ML", url: "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-31--weekly-recap-chinese-spy-proxy-ai-agent",
+      title: "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      date: "2026-08-31",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsew...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html" }
       ],
       xAccounts: [],
     },
