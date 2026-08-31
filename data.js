@@ -7059,6 +7059,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-08-31-the-pentagon-now-has-its-own-version-of",
+      title: "The Pentagon now has its own version of ChatGPT and Grok",
+      date: "2026-08-31",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-31-harvard-law-dropout-raises-6m-for-blue-v",
+      title: "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      date: "2026-08-31",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-31-nvidia-s-3-5b-mediatek-bet-reveals-its-p",
+      title: "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      date: "2026-08-31",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-31-hugging-face-hack-could-indicate-cultura",
+      title: "Hugging Face hack could indicate cultural issues at OpenAI",
+      date: "2026-08-31",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Huggin...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
