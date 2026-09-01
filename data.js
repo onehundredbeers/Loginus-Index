@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-08-31",
+    lastUpdated: "2026-09-01",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7112,6 +7112,35 @@ const LONGINUS_DATA = {
       body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Huggin...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-08-31-the-hugging-face-hack-could-indicate-cul",
+      title: "The Hugging Face hack could indicate cultural issues at OpenAI",
+      date: "2026-08-31",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month��s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Huggi...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-08-31-connect-an-agentcore-runtime-hosted-mcp",
+      title: "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      date: "2026-08-31",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","aws-ml"],
+      body: "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication of AI tools, so clients can reuse commonly used tools and agents exposed thro...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/" }
       ],
       xAccounts: [],
     },
