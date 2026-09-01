@@ -7145,6 +7145,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-01-google-s-answer-to-canva-is-an-ai-tool-w",
+      title: "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      date: "2026-09-01",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-01-air-raises-50m-to-help-companies-vet-the",
+      title: "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      date: "2026-09-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
