@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-01",
+    lastUpdated: "2026-09-02",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7170,6 +7170,21 @@ const LONGINUS_DATA = {
       body: "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-02-malicious-git-configs-can-make-claude-co",
+      title: "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      date: "2026-09-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","the-hacker-news"],
+      body: "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html" }
       ],
       xAccounts: [],
     },
