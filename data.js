@@ -7189,6 +7189,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-02-openai-s-new-reasoning-technique-alarms",
+      title: "OpenAI’s new reasoning technique alarms AI safety experts",
+      date: "2026-09-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
