@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-02",
+    lastUpdated: "2026-09-03",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7200,6 +7200,21 @@ const LONGINUS_DATA = {
       body: "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-03-shai-hulud-s-reach-just-grew-to-469-cred",
+      title: "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      date: "2026-09-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Ea...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html" }
       ],
       xAccounts: [],
     },
