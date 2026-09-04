@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-03",
+    lastUpdated: "2026-09-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7215,6 +7215,49 @@ const LONGINUS_DATA = {
       body: "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Ea...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-04-another-swarm-of-openai-agents-reached-t",
+      title: "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      date: "2026-09-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-04-designing-lifecycle-policies-for-agentco",
+      title: "Designing lifecycle policies for AgentCore memory",
+      date: "2026-09-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK s...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-04-run-agent-driven-amazon-sagemaker-hyperp",
+      title: "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      date: "2026-09-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, an...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/" }
       ],
       xAccounts: [],
     },
