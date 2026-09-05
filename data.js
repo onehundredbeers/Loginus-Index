@@ -7292,6 +7292,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-05-openai-admits-it-didn-t-disclose-rogue-a",
+      title: "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      date: "2026-09-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
