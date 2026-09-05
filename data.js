@@ -7277,6 +7277,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-05-thousands-of-openai-agents-quietly-turne",
+      title: "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      date: "2026-09-05",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-safety","the-hacker-news"],
+      body: "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
