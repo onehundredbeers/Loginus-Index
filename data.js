@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-04",
+    lastUpdated: "2026-09-05",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7258,6 +7258,21 @@ const LONGINUS_DATA = {
       body: "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, an...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-04-openai-agents-discussed-ways-to-escape-t",
+      title: "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      date: "2026-09-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/" }
       ],
       xAccounts: [],
     },
