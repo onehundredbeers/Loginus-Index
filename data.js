@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-05",
+    lastUpdated: "2026-09-07",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7318,6 +7318,21 @@ const LONGINUS_DATA = {
       body: "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-07-the-download-the-hunt-for-underground-hy",
+      title: "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      date: "2026-09-07",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable so...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/" }
       ],
       xAccounts: [],
     },
