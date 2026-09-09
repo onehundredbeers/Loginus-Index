@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-07",
+    lastUpdated: "2026-09-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7333,6 +7333,63 @@ const LONGINUS_DATA = {
       body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable so...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-08-autonomous-ai-agents-compromise-thousand",
+      title: "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      date: "2026-09-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours. Google Threat Intell...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-08-cognition-hits-48b-valuation-signaling-i",
+      title: "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      date: "2026-09-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-08-meta-debuts-its-muse-ai-agent-will-consu",
+      title: "Meta debuts its Muse AI agent. Will consumers trust it?",
+      date: "2026-09-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-08-automated-agent-evaluation-with-amazon-b",
+      title: "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+      date: "2026-09-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/" }
       ],
       xAccounts: [],
     },
