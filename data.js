@@ -7394,6 +7394,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-09-deepseek-harness-flaw-let-ai-agents-disa",
+      title: "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      date: "2026-09-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","ai-coding","the-hacker-news"],
+      body: "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files ca...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-09-sequoia-doubles-down-on-cymphony-as-ai-a",
+      title: "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      date: "2026-09-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
