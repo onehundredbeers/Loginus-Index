@@ -7423,6 +7423,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-09-viral-ai-assistant-instinct-now-has-its",
+      title: "Viral AI assistant Instinct now has its own email address",
+      date: "2026-09-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
