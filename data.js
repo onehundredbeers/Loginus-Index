@@ -7539,6 +7539,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-10-meta-s-ai-agent-muse-is-now-the-no-2-app",
+      title: "Meta’s AI agent Muse is now the No. 2 app in the US",
+      date: "2026-09-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-10-reduce-inference-cold-starts-on-amazon-s",
+      title: "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+      date: "2026-09-10",
+      category: "hack",
+      severity: "moderate",
+      tags: ["model-weights","aws-ml"],
+      body: "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
