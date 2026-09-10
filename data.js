@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-09",
+    lastUpdated: "2026-09-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7434,6 +7434,21 @@ const LONGINUS_DATA = {
       body: "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-09-deploying-qwen3-8-2-4t-a95b-on-amazon-sa",
+      title: "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+      date: "2026-09-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["quantization","aws-ml"],
+      body: "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/" }
       ],
       xAccounts: [],
     },
