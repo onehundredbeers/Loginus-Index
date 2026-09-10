@@ -7453,6 +7453,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-10-anthropic-discloses-fourth-ai-hacking-in",
+      title: "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      date: "2026-09-10",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","the-hacker-news"],
+      body: "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company said the incident ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
