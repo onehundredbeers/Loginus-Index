@@ -7468,6 +7468,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-10-papercut-attacker-uses-hundreds-of-ai-ag",
+      title: "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      date: "2026-09-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyN...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-10-ai-powered-attack-exploited-papercut-fla",
+      title: "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      date: "2026-09-10",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-10-anthropic-reveals-rogue-ai-agents-hate-c",
+      title: "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      date: "2026-09-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Come inside the mind of a bot trying to convince the internet it's human.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-10-ai-agents-are-flooding-public-services-w",
+      title: "AI agents are flooding public services with new requests",
+      date: "2026-09-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-10-skild-ai-taps-nvidia-physical-ai-to-teac",
+      title: "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      date: "2026-09-10",
+      category: "tool",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-ho...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
