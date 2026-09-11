@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-10",
+    lastUpdated: "2026-09-11",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7564,6 +7564,21 @@ const LONGINUS_DATA = {
       body: "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it ...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia",
+      title: "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      date: "2026-09-11",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" }
       ],
       xAccounts: [],
     },
