@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-11",
+    lastUpdated: "2026-09-12",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7579,6 +7579,35 @@ const LONGINUS_DATA = {
       body: "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-12-when-the-whole-company-adopts-ai-what-it",
+      title: "When the Whole Company Adopts AI: What It Does to Your SOC",
+      date: "2026-09-12",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-12-openai-agents-linked-to-rubygems-campaig",
+      title: "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      date: "2026-09-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at M...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html" }
       ],
       xAccounts: [],
     },
