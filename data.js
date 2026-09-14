@@ -7655,6 +7655,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-14-ai-agents-blew-the-whistle-on-their-chea",
+      title: "AI agents blew the whistle on their cheating colleagues",
+      date: "2026-09-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to ke...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-14-automate-replenishment-with-mmf-databric",
+      title: "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      date: "2026-09-14",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, es...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
