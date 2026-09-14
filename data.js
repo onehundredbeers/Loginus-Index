@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-12",
+    lastUpdated: "2026-09-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7608,6 +7608,49 @@ const LONGINUS_DATA = {
       body: "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at M...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-14--weekly-recap-rogue-ai-agents-wechat-wor",
+      title: "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      date: "2026-09-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-14-only-at-techcrunch-disrupt-2026-what-hap",
+      title: "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      date: "2026-09-14",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","techcrunch"],
+      body: "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. The greatest risk isn't building a weak product — it's building a strong one that eventually becomes someone else's feature. Y...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-14-perplexity-portable-computer-is-now-avai",
+      title: "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      date: "2026-09-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local model...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/" }
       ],
       xAccounts: [],
     },
