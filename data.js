@@ -7714,6 +7714,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-15-ai-agents-now-have-a-place-to-snitch",
+      title: "AI agents now have a place to snitch",
+      date: "2026-09-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-15-meta-expands-subscription-push-with-new",
+      title: "Meta expands subscription push with new AI-focused plans",
+      date: "2026-09-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-15-openai-anthropic-google-have-been-in-tal",
+      title: "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      date: "2026-09-15",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-15-ai-for-societal-impact",
+      title: "AI for Societal Impact",
+      date: "2026-09-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-breakthrough","google-ai"],
+      body: "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      sources: [
+        { title: "Google AI", url: "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-15-optimizing-cost-and-latency-with-amazon",
+      title: "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      date: "2026-09-15",
+      category: "tool",
+      severity: "tool",
+      tags: ["foundation-model","aws-ml"],
+      body: "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolati...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
