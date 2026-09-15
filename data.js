@@ -7785,6 +7785,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-15-meta-now-lets-ai-agents-handle-the-borin",
+      title: "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      date: "2026-09-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ai-coding","techcrunch"],
+      body: "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
