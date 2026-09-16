@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-15",
+    lastUpdated: "2026-09-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7796,6 +7796,21 @@ const LONGINUS_DATA = {
       body: "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-16-we-don-t-need-ai-regulation-leave-safety",
+      title: "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      date: "2026-09-16",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-regulation","techcrunch"],
+      body: "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/" }
       ],
       xAccounts: [],
     },
