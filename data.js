@@ -7815,6 +7815,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-16-attacker-hijacks-ai-coding-assistant-ses",
+      title: "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      date: "2026-09-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the r...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-16-spain-s-data-agency-gets-first-report-of",
+      title: "Spain's data agency gets first report of AI-powered data breach",
+      date: "2026-09-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-16-your-ai-agents-can-now-control-your-goog",
+      title: "Your AI agents can now control your Google Home devices",
+      date: "2026-09-16",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
