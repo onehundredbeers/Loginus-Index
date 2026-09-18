@@ -7988,6 +7988,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-18-plugin4shell-lets-repository-owners-swap",
+      title: "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      date: "2026-09-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has p...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-18-google-s-new-cc-is-an-ai-agent-that-help",
+      title: "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      date: "2026-09-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-18-migrating-multi-model-ai-agents-to-amazo",
+      title: "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      date: "2026-09-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management. The framework-agnostic pattern applies across health...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
