@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-17",
+    lastUpdated: "2026-09-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -7884,6 +7884,91 @@ const LONGINUS_DATA = {
       body: "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-17-ciso-s-expert-guide-to-agentic-pentestin",
+      title: "CISO's Expert Guide to Agentic Pentesting for Websites",
+      date: "2026-09-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing o...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-17-openai-details-more-cases-of-ai-agents-t",
+      title: "OpenAI details more cases of AI agents taking unauthorized actions",
+      date: "2026-09-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-17-the-fix-for-rogue-ai-agents-could-be-mor",
+      title: "The fix for rogue AI agents could be more AI",
+      date: "2026-09-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-17-is-the-ai-safety-debate-about-safety-or",
+      title: "Is the AI safety debate about safety or control?",
+      date: "2026-09-17",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-17-un-turns-to-google-to-make-its-global-da",
+      title: "UN turns to Google to make its global data ready for AI agents",
+      date: "2026-09-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-17-how-mrh-trowe-enabled-secure-self-servic",
+      title: "How MRH Trowe enabled secure self-service AI agents in financial services",
+      date: "2026-09-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how MRH Trowe, one of Germany's leading commercial and industrial insurance brokers, gave about 400 employees secure, self-service access to AI agents in its first month of production - using Strands Agents, Amazon Bedrock AgentCore, and LibreChat to meet the security, data residency, and c...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/" }
       ],
       xAccounts: [],
     },
