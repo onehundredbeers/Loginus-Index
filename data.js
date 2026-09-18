@@ -7973,6 +7973,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-17-threatsday-self-rewriting-agents-800-fla",
+      title: "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      date: "2026-09-17",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lyin...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
