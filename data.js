@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-18",
+    lastUpdated: "2026-09-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8027,6 +8027,35 @@ const LONGINUS_DATA = {
       body: "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management. The framework-agnostic pattern applies across health...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-19-calling-viral-ai-actress-tilly-norwood-a",
+      title: "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      date: "2026-09-19",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","bleepingcomputer"],
+      body: "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fin...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-19-vals-backed-by-andreessen-horowitz-is-lo",
+      title: "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      date: "2026-09-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-benchmark","techcrunch"],
+      body: "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/" }
       ],
       xAccounts: [],
     },
