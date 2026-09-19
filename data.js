@@ -8060,6 +8060,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-19-viral-ai-actress-hotline-face-scans-ever",
+      title: "Viral AI actress' hotline face-scans every caller, watches their mood",
+      date: "2026-09-19",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","bleepingcomputer"],
+      body: "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fin...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-19-ai-safety-conversations-have-gotten-unbe",
+      title: "AI safety conversations have gotten unbelievable",
+      date: "2026-09-19",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
