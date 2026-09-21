@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-19",
+    lastUpdated: "2026-09-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8085,6 +8085,35 @@ const LONGINUS_DATA = {
       body: "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-21--weekly-recap-cisco-0-day-ai-agent-rce-c",
+      title: "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      date: "2026-09-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-21-how-benchling-secured-multi-tenant-ai-ag",
+      title: "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      date: "2026-09-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC mode, combined with Amazon Route 53 Resolver DNS Firewall and VPC endpoint polic...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/" }
       ],
       xAccounts: [],
     },
