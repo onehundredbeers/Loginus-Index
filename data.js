@@ -8118,6 +8118,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-21-meta-s-muse-is-outpacing-chatgpt-s-early",
+      title: "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      date: "2026-09-21",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-21-meta-s-ai-agent-has-been-blocked-from-us",
+      title: "Meta’s AI agent has been blocked from using Amazon.com",
+      date: "2026-09-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","foundation-model","techcrunch"],
+      body: "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
