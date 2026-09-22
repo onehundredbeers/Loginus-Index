@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-21",
+    lastUpdated: "2026-09-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8143,6 +8143,35 @@ const LONGINUS_DATA = {
       body: "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-22-ai-agents-are-rewriting-the-rules-of-lat",
+      title: "AI Agents Are Rewriting the Rules of Lateral Movement",
+      date: "2026-09-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task. A deterministic application f...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-22-five-ai-safety-sessions-every-founder-sh",
+      title: "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      date: "2026-09-22",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/" }
       ],
       xAccounts: [],
     },
