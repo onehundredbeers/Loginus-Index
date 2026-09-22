@@ -8176,6 +8176,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-22-snorkel-ai-triples-valuation-to-3-5b-as",
+      title: "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      date: "2026-09-22",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","techcrunch"],
+      body: "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
