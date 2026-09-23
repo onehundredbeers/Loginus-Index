@@ -8220,6 +8220,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-23-enveda-secures-311m-to-bring-more-nature",
+      title: "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      date: "2026-09-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-drug","techcrunch"],
+      body: "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-23-use-open-weight-models-as-your-ai-coding",
+      title: "Use open weight models as your AI coding agent with Amazon Bedrock",
+      date: "2026-09-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","aws-ml"],
+      body: "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the right model to each task, and keep your data in your own AWS account with no in...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
