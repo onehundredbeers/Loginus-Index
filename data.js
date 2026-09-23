@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-22",
+    lastUpdated: "2026-09-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8187,6 +8187,35 @@ const LONGINUS_DATA = {
       body: "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-23-malicious-ai-agents-steal-600k-credit-ca",
+      title: "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      date: "2026-09-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-23-even-americans-who-use-ai-every-day-are",
+      title: "Even Americans who use AI every day are worried about it",
+      date: "2026-09-23",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-regulation","techcrunch"],
+      body: "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/" }
       ],
       xAccounts: [],
     },
