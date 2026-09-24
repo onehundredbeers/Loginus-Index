@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-23",
+    lastUpdated: "2026-09-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8245,6 +8245,35 @@ const LONGINUS_DATA = {
       body: "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the right model to each task, and keep your data in your own AWS account with no in...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-24-everything-new-coming-to-meta-s-ai-agent",
+      title: "Everything new coming to Meta’s AI agent Muse",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-24-meta-made-a-tamagotchi-like-wearable-for",
+      title: "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/" }
       ],
       xAccounts: [],
     },
