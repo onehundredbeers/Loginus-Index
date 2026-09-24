@@ -8364,6 +8364,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-24-new-carbonato-malware-uses-ai-agents-to",
+      title: "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
