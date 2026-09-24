@@ -8307,6 +8307,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-24-threatsday-ai-search-poisoning-ai-coding",
+      title: "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      date: "2026-09-24",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","ai-coding","the-hacker-news"],
+      body: "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more th...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-24-secrets-sprawl-is-an-identity-problem-th",
+      title: "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-wr...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-24-build-a-multi-account-ai-agent-with-agen",
+      title: "Build a multi-account AI agent with AgentCore Gateway and MCP",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP serve...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-24-compressing-streaming-neural-audio-encod",
+      title: "Compressing Streaming Neural Audio Encoders via Latent-Space Distillation",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","apple-ml"],
+      body: "System-wide Dictation on Apple devices runs entirely on-device, and the speech it transcribes reaches the foundation model through a tokenizer: an encoder that maps short windows of waveform onto the representation the language model reads. Because that model is sparsely activated under Instructi...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/latent-space-distillation" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
