@@ -8278,6 +8278,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-24-openai-agent-bypassed-australian-medicar",
+      title: "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      date: "2026-09-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-24-openai-hacked-australian-medicare-govt-s",
+      title: "OpenAI hacked Australian Medicare govt site, probed data providers",
+      date: "2026-09-24",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","bleepingcomputer"],
+      body: "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
