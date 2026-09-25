@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-24",
+    lastUpdated: "2026-09-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8375,6 +8375,63 @@ const LONGINUS_DATA = {
       body: "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-25-with-the-rise-of-ai-agents-soc-2-should",
+      title: "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      date: "2026-09-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-25-meta-s-muse-just-stole-the-ai-spotlight",
+      title: "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      date: "2026-09-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the compan...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-25-meta-is-putting-its-muscle-behind-muse-a",
+      title: "Meta is putting its muscle behind Muse as the AI app takes off",
+      date: "2026-09-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-25-meta-s-ai-tamagotchi-bet-is-working",
+      title: "Meta’s AI Tamagotchi bet is…working?",
+      date: "2026-09-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the compan...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/" }
       ],
       xAccounts: [],
     },
