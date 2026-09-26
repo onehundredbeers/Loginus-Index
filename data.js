@@ -8466,6 +8466,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-26-zero-trust-for-ai-agents-starts-with-fix",
+      title: "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      date: "2026-09-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely dis...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
