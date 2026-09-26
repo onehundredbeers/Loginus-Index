@@ -8481,6 +8481,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-26-insurers-claim-ai-is-already-increasing",
+      title: "Insurers claim AI is already increasing healthcare costs",
+      date: "2026-09-26",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
