@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-25",
+    lastUpdated: "2026-09-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8447,6 +8447,21 @@ const LONGINUS_DATA = {
       body: "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-26-openai-s-ai-agents-accidentally-uploaded",
+      title: "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      date: "2026-09-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/" }
       ],
       xAccounts: [],
     },
