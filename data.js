@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-26",
+    lastUpdated: "2026-09-28",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8492,6 +8492,105 @@ const LONGINUS_DATA = {
       body: "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-28--weekly-recap-387m-crypto-hack-citrix-ex",
+      title: "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed syste...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-webinar-how-to-govern-ai-agents-reduce-e",
+      title: "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026 report, only 47% of C...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-carbonato-botnet-compromises-docker-host",
+      title: "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the framework unchanged, then overwrites its SOUL.md p...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-modulate-raises-25m-for-its-voice-models",
+      title: "Modulate raises $25M for its voice models and analysis suite",
+      date: "2026-09-28",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","techcrunch"],
+      body: "Modulate deploys its models to detect deepfake, fraud and scam",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-viral-ai-agent-instinct-raises-1b-series",
+      title: "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-the-download-rogue-agent-liability-and-t",
+      title: "The Download: rogue agent liability and the AI Hype Index",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Who s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-who-s-liable-when-ai-agents-go-rogue",
+      title: "Who’s liable when AI agents go rogue?",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/" }
       ],
       xAccounts: [],
     },
