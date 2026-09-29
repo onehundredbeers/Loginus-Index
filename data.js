@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-28",
+    lastUpdated: "2026-09-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8591,6 +8591,77 @@ const LONGINUS_DATA = {
       body: "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-28-iam-for-ai-agents-a-practical-enterprise",
+      title: "IAM for AI agents: A Practical Enterprise Framework",
+      date: "2026-09-28",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/iam-for-ai-agent.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-jadepuffer-agentic-ai-attacks-target-azu",
+      title: "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      date: "2026-09-28",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-attack","bleepingcomputer"],
+      body: "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-shopify-opens-checkout-to-browser-based",
+      title: "Shopify opens checkout to browser-based AI agents",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-nvidia-launches-new-platform-for-reining",
+      title: "Nvidia launches new platform for reining in rogue AI agents",
+      date: "2026-09-28",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-28-google-is-killing-off-gemini-s-gems-in-f",
+      title: "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      date: "2026-09-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/" }
       ],
       xAccounts: [],
     },
