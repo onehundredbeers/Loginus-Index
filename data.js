@@ -8709,6 +8709,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-29-automated-ai-agent-used-to-breach-cybers",
+      title: "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-here-s-why-openai-is-absent-from-nvidia",
+      title: "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-ai-powered-app-maker-wabi-pivots-to-a-me",
+      title: "AI-powered app maker Wabi pivots to a messaging experience",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-building-an-ai-powered-contract-intellig",
+      title: "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
+      date: "2026-09-29",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Manually extracting data from hundreds of vendor contracts doesn't scale, and RAG chat tools fall short on portfolio-wide questions. This post shares a contract intelligence platform on AWS that uses AI agents to extract and verify contract fields, then answers aggregate and single-contract quest...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
