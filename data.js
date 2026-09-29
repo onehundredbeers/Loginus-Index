@@ -8766,6 +8766,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-29-the-internet-is-convinced-elon-musk-s-xa",
+      title: "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      date: "2026-09-29",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-openai-s-latest-features-take-direct-aim",
+      title: "OpenAI’s latest features take direct aim at the app store model",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
