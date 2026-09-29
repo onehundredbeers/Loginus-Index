@@ -8666,6 +8666,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-29-openai-pauses-tool-use-after-agent-bypas",
+      title: "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      date: "2026-09-29",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-pause","the-hacker-news"],
+      body: "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based traini...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-openai-apologizes-to-australia-after-its",
+      title: "OpenAI apologizes to Australia after its AI agents breached government sites",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-29-reco-raises-55m-as-ai-agent-security-sta",
+      title: "Reco raises $55M as AI agent security startups crowd the market",
+      date: "2026-09-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
