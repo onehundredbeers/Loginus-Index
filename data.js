@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-29",
+    lastUpdated: "2026-09-30",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8791,6 +8791,21 @@ const LONGINUS_DATA = {
       body: "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-09-30-ai-coding-agents-exposed-13-000-internal",
+      title: "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      date: "2026-09-30",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records a...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html" }
       ],
       xAccounts: [],
     },
