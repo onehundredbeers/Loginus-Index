@@ -8810,6 +8810,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-30-meta-disputes-claim-that-muse-read-a-use",
+      title: "Meta disputes claim that Muse read a user’s private messages without permission",
+      date: "2026-09-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-30-doordash-launches-an-ai-agent-you-can-te",
+      title: "DoorDash launches an AI agent you can text to order food",
+      date: "2026-09-30",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-09-30-restate-lands-20m-as-the-need-for-durabl",
+      title: "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      date: "2026-09-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
