@@ -8853,6 +8853,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-09-30-valor-atreides-and-sequoia-back-ai-start",
+      title: "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      date: "2026-09-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
