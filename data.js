@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-09-30",
+    lastUpdated: "2026-10-01",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8864,6 +8864,77 @@ const LONGINUS_DATA = {
       body: "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-01-shopify-debuts-canvas-a-way-to-build-onl",
+      title: "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      date: "2026-10-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-01-brian-chesky-interview-ai-agents-need-th",
+      title: "Brian Chesky interview: AI agents need their own operating system",
+      date: "2026-10-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-01-photon-held-a-funeral-for-mobile-apps-no",
+      title: "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      date: "2026-10-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-01-the-download-ai-mind-reading-and-creativ",
+      title: "The Download: AI “mind-reading” and creative uses for small batteries",
+      date: "2026-10-01",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your br...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-01-an-ai-mind-reading-tool-can-reconstruct",
+      title: "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      date: "2026-10-01",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","mit-technology-review"],
+      body: "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/" }
       ],
       xAccounts: [],
     },
