@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-01",
+    lastUpdated: "2026-10-02",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -8935,6 +8935,35 @@ const LONGINUS_DATA = {
       body: "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each ...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-01-autonomous-ai-agents-tried-to-hack-us-ca",
+      title: "Autonomous AI agents tried to hack US, Canadian government websites",
+      date: "2026-10-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-01-scaling-cloud-migrations-with-agentic-ai",
+      title: "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      date: "2026-10-01",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC dev...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/" }
       ],
       xAccounts: [],
     },
