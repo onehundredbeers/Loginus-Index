@@ -8998,6 +8998,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-02-apple-says-it-s-tightening-macos-full-di",
+      title: "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      date: "2026-10-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-02-call-it-ai-call-it-super-intelligence-on",
+      title: "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      date: "2026-10-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super int...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-02-it-s-not-ai-anymore-it-s-super-intellige",
+      title: "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      date: "2026-10-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super int...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-02-language-discrimination-improves-linguis",
+      title: "Language Discrimination Improves Linguistic Learning in Multilingual Speech Models",
+      date: "2026-10-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and,...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
