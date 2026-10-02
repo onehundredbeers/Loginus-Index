@@ -8968,6 +8968,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-02-autosynthdata-generating-training-data-f",
+      title: "AutoSynthData: Generating Training Data for Enterprise Agents",
+      date: "2026-10-02",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","hugging-face"],
+      body: "AutoSynthData: Generating Training Data for Enterprise Agents",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/ServiceNow-AI/autosynthdata" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
