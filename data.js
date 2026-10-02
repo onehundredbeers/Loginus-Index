@@ -8983,6 +8983,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-02-nvidia-dgx-spark-64gb-gives-developers-m",
+      title: "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      date: "2026-10-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memor...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
