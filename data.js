@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-02",
+    lastUpdated: "2026-10-03",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9051,6 +9051,21 @@ const LONGINUS_DATA = {
       body: "Multilingual self-supervised speech models can benefit from sharing information across languages, but under a matched total pretraining data budget they still fall short of monolingual models. We show that strengthening the model’s ability to discriminate languages during pretraining reduces and,...",
       sources: [
         { title: "Apple ML", url: "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-02-apple-changes-full-disk-access-permissio",
+      title: "Apple changes full-disk access permissions to curb abuse from AI agents",
+      date: "2026-10-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/" }
       ],
       xAccounts: [],
     },
