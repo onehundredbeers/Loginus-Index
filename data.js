@@ -9070,6 +9070,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-03-all-the-ai-agents-that-can-live-in-your",
+      title: "All the AI agents that can live in your text messages",
+      date: "2026-10-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
