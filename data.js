@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-03",
+    lastUpdated: "2026-10-04",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9096,6 +9096,35 @@ const LONGINUS_DATA = {
       body: "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-04-china-aligned-ta419-targets-u-s-ai-polic",
+      title: "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      date: "2026-10-04",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-policy","the-hacker-news"],
+      body: "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-04-trump-unveils-his-new-super-intelligence",
+      title: "Trump unveils his new Super Intelligence Force",
+      date: "2026-10-04",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "This new task force is Trump's latest response to the debate over AI safety.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/" }
       ],
       xAccounts: [],
     },
