@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-04",
+    lastUpdated: "2026-10-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9125,6 +9125,77 @@ const LONGINUS_DATA = {
       body: "This new task force is Trump's latest response to the debate over AI safety.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-06-wikimedia-says-openai-agents-tried-to-co",
+      title: "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      date: "2026-10-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to ou...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-06-wikimedia-rogue-openai-agents-behind-una",
+      title: "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      date: "2026-10-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-06-how-ai-decision-models-could-change-cont",
+      title: "How AI decision models could change content moderation",
+      date: "2026-10-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["open-weights","techcrunch"],
+      body: "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-06-the-next-hurdle-for-ai-agents-getting-we",
+      title: "The next hurdle for AI agents: getting websites to let them in",
+      date: "2026-10-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-06-openai-agents-tried-to-hack-wikipedia-to",
+      title: "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      date: "2026-10-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","ars-technica"],
+      body: "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/" }
       ],
       xAccounts: [],
     },
