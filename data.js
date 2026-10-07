@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-06",
+    lastUpdated: "2026-10-07",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9196,6 +9196,49 @@ const LONGINUS_DATA = {
       body: "The reports of OpenAI agents harming 3rd party sites keep coming.",
       sources: [
         { title: "Ars Technica", url: "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-07-meta-s-muse-launches-on-ipad-just-a-mont",
+      title: "Meta’s Muse launches on iPad just a month after its mobile debut",
+      date: "2026-10-07",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-07-meta-rolls-out-new-ai-tools-to-detect-ad",
+      title: "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      date: "2026-10-07",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-07-nvidia-microsoft-kick-off-a-new-beginnin",
+      title: "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      date: "2026-10-07",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look a...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/" }
       ],
       xAccounts: [],
     },
