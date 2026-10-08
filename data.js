@@ -9329,6 +9329,91 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-08-fired-openai-safety-researchers-dispute",
+      title: "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      date: "2026-10-08",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-ben-affleck-is-an-ai-nerd-and-the-intern",
+      title: "Ben Affleck is an AI nerd, and the internet is impressed",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["open-weights","techcrunch"],
+      body: "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-google-brings-agentic-ai-to-gemini-start",
+      title: "Google brings agentic AI to Gemini, starting with businesses",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-natura-s-99-smart-ring-puts-ai-agents-on",
+      title: "Natura’s $99 smart ring puts AI agents on your finger",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-goodfire-says-its-new-inside-out-monitor",
+      title: "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      date: "2026-10-08",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-pay-per-inference-for-ai-agents-how-bloc",
+      title: "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from month...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
