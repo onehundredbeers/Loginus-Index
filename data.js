@@ -9258,6 +9258,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-08-oauth-grants-pile-up-faster-than-you-can",
+      title: "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      date: "2026-10-08",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This arti...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-microsoft-teams-to-get-support-for-third",
+      title: "Microsoft Teams to get support for third-party deepfake detection tools",
+      date: "2026-10-08",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-the-download-ai-roadblocks-for-humanoids",
+      title: "The Download: AI roadblocks for humanoids and portable rubber dams",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-breakthrough","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-ai-breakthroughs-in-robotics-won-t-chang",
+      title: "AI breakthroughs in robotics won’t change your life any time soon",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-breakthrough","mit-technology-review"],
+      body: "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video fee...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-building-a-safer-path-to-autonomous-indu",
+      title: "Building a safer path to autonomous industrial AI",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","mit-technology-review"],
+      body: "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in t...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
