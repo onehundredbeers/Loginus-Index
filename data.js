@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-07",
+    lastUpdated: "2026-10-08",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9239,6 +9239,21 @@ const LONGINUS_DATA = {
       body: "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look a...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-07-nous-research-confirms-it-hit-1-5b-valua",
+      title: "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      date: "2026-10-07",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The developer of Hermes Agent raised a $90 million Series B.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/" }
       ],
       xAccounts: [],
     },
