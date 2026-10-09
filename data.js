@@ -9457,6 +9457,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-09-anthropic-launches-free-ai-vulnerability",
+      title: "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      date: "2026-10-09",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-vulnerability","the-hacker-news"],
+      body: "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects t...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-09-amazon-and-others-are-done-keeping-data",
+      title: "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      date: "2026-10-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-09-amazon-drops-data-center-ndas-and-ai-age",
+      title: "Amazon drops data center NDAs, and AI agents want your credit card",
+      date: "2026-10-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-09-how-postman-runs-agent-mode-for-40-milli",
+      title: "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      date: "2026-10-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on A...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
