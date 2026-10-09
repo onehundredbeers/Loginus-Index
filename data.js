@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-08",
+    lastUpdated: "2026-10-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9410,6 +9410,49 @@ const LONGINUS_DATA = {
       body: "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from month...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-09-the-ai-velocity-paradox-why-security-is",
+      title: "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      date: "2026-10-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-09-how-to-keep-ai-agents-within-their-permi",
+      title: "How to keep AI agents within their permissions",
+      date: "2026-10-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-08-into-the-omniverse-how-developers-turn-i",
+      title: "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      date: "2026-10-08",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for expl...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" }
       ],
       xAccounts: [],
     },
