@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-09",
+    lastUpdated: "2026-10-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9510,6 +9510,21 @@ const LONGINUS_DATA = {
       body: "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on A...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-10-anthropic-can-t-reliably-control-its-ai",
+      title: "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      date: "2026-10-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/" }
       ],
       xAccounts: [],
     },
