@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-10",
+    lastUpdated: "2026-10-13",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9540,6 +9540,63 @@ const LONGINUS_DATA = {
       body: "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-12-bring-your-own-agent-your-employees-assi",
+      title: "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      date: "2026-10-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up. Regardless, the...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-12-honeyjar-offers-ai-tools-to-improve-pr-a",
+      title: "Honeyjar offers AI tools to improve PR and comms at every company",
+      date: "2026-10-12",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","techcrunch"],
+      body: "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-12-microsoft-president-says-uk-is-best-plac",
+      title: "Microsoft president says UK is best placed to drive AI regulation",
+      date: "2026-10-12",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-regulation","techcrunch"],
+      body: "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-from-earth-to-orbit-france-s-ecosystem-d",
+      title: "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      date: "2026-10-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","nvidia"],
+      body: "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Sum...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/" }
       ],
       xAccounts: [],
     },
