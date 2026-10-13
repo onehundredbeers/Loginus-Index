@@ -9601,6 +9601,105 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-13-laplace-intelligence-red-teams-robots-an",
+      title: "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      date: "2026-10-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-pluto-security-raises-42m-as-ai-gives-en",
+      title: "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      date: "2026-10-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-spacexsi-bundles-x-premium-grok-and-curs",
+      title: "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      date: "2026-10-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-amex-introduces-a-framework-to-prevent-a",
+      title: "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      date: "2026-10-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-nvidia-announces-new-investments-in-fran",
+      title: "NVIDIA Announces New Investments in France’s Startups",
+      date: "2026-10-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-act","nvidia"],
+      body: "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Sum...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-mixture-of-experts-kernel-engineering-on",
+      title: "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+      date: "2026-10-13",
+      category: "win",
+      severity: "win",
+      tags: ["quantization","aws-ml"],
+      body: "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Ti...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-13-mix-don-t-tune-bilingual-pre-training-ou",
+      title: "Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings",
+      date: "2026-10-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-reso...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/mix-dont-tune" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
