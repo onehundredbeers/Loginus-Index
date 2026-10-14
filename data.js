@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-13",
+    lastUpdated: "2026-10-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9711,6 +9711,77 @@ const LONGINUS_DATA = {
       body: "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credential...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-14-how-to-run-a-deepfake-readiness-drill-be",
+      title: "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      date: "2026-10-14",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","the-hacker-news"],
+      body: "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like he...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-researchers-used-a-public-openai-model-t",
+      title: "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-an-ai-agent-found-a-critical-otp-bypass",
+      title: "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request le...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-european-cities-deploy-nvidia-powered-ai",
+      title: "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-generate-presentations-with-amazon-bedro",
+      title: "Generate presentations with Amazon Bedrock AgentCore",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/" }
       ],
       xAccounts: [],
     },
