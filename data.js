@@ -9786,6 +9786,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-14-apate-sends-ai-agents-undercover-to-get",
+      title: "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-floqer-s-ai-agents-research-sales-prospe",
+      title: "Floqer’s AI agents research sales prospects so teams don’t have to",
+      date: "2026-10-14",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-14-code-switching-detection-via-language-se",
+      title: "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models",
+      date: "2026-10-14",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","apple-ml"],
+      body: "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way ...",
+      sources: [
+        { title: "Apple ML", url: "https://machinelearning.apple.com/research/code-switching-detection" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
