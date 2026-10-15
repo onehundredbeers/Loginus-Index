@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-14",
+    lastUpdated: "2026-10-15",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9825,6 +9825,21 @@ const LONGINUS_DATA = {
       body: "Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way ...",
       sources: [
         { title: "Apple ML", url: "https://machinelearning.apple.com/research/code-switching-detection" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-15-fake-ai-attacks-spread-across-us-compani",
+      title: "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      date: "2026-10-15",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-attack","the-hacker-news"],
+      body: "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving U...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html" }
       ],
       xAccounts: [],
     },
