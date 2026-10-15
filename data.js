@@ -9844,6 +9844,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-15-is-ai-pentesting-as-good-as-a-human-pent",
+      title: "Is AI pentesting as good as a human pentester?",
+      date: "2026-10-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-15-ai-agents-are-coming-to-rivian-s-cars",
+      title: "AI agents are coming to Rivian’s cars",
+      date: "2026-10-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "We'll likely learn more about how this will work at the company's upcoming \"AI Autonomy Day\" event in December.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-15-be-there-for-the-beginning-celebrate-the",
+      title: "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      date: "2026-10-15",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, an...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-15-trust-in-depth-giving-agents-more-autono",
+      title: "Trust in Depth: Giving agents more autonomy without losing control",
+      date: "2026-10-15",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the dec...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
