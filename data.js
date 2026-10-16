@@ -9916,6 +9916,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-16-ai-decision-models-and-their-impact-on-a",
+      title: "AI Decision Models and Their Impact on AI SOC Platforms",
+      date: "2026-10-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","the-hacker-news"],
+      body: "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6....",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
