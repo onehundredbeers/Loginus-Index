@@ -9931,6 +9931,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-16-india-becomes-the-latest-country-to-repo",
+      title: "India becomes the latest country to report rogue AI agent activity",
+      date: "2026-10-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-16-an-nvidia-insider-turned-vc-on-why-robot",
+      title: "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      date: "2026-10-16",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","techcrunch"],
+      body: "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-16-physical-ai-is-more-than-robots-says-the",
+      title: "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      date: "2026-10-16",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","techcrunch"],
+      body: "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-16-replit-s-ceo-says-the-future-of-work-is",
+      title: "Replit’s CEO says the future of work is the ‘self-driving company’",
+      date: "2026-10-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
