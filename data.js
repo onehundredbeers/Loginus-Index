@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-15",
+    lastUpdated: "2026-10-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9897,6 +9897,21 @@ const LONGINUS_DATA = {
       body: "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the dec...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-16-cert-in-warns-ai-agents-accessed-sensiti",
+      title: "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      date: "2026-10-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthori...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html" }
       ],
       xAccounts: [],
     },
