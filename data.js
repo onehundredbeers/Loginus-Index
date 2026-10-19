@@ -10131,6 +10131,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-19-microsoft-says-ai-agents-are-like-inside",
+      title: "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-hackers-hit-ai-coding-tool-opencode-runn",
+      title: "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      date: "2026-10-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","ai-coding","techcrunch"],
+      body: "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-tenstorrent-hits-6-2b-valuation-to-scale",
+      title: "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-making-the-internet-better-for-ai-agents",
+      title: "Making the internet better for AI agents might make it worse for everyone else",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like cap...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
