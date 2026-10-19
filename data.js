@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-16",
+    lastUpdated: "2026-10-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -9999,6 +9999,21 @@ const LONGINUS_DATA = {
       body: "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-19-ai-researchers-stranded-claude-on-a-virt",
+      title: "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—w...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/" }
       ],
       xAccounts: [],
     },
