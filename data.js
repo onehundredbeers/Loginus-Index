@@ -10018,6 +10018,119 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-19--weekly-recap-98-zero-days-rogue-ai-agen",
+      title: "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-fake-web3-accelerator-uses-npm-packages",
+      title: "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      date: "2026-10-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The to...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-opencode-hack-exposes-api-keys-amid-ai-d",
+      title: "OpenCode hack exposes API keys amid AI distillation attacks",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","bleepingcomputer"],
+      body: "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-inside-the-underground-market-for-know-y",
+      title: "Inside the Underground Market for Know Your Client Services",
+      date: "2026-10-19",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-people-are-using-ai-to-make-their-smart",
+      title: "People are using AI to make their smart TVs dumb again",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-nvidia-launches-new-open-models-to-run-a",
+      title: "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      date: "2026-10-19",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-laplace-intelligence-red-teams-robots-an",
+      title: "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-19-the-download-preserving-the-arctic-perma",
+      title: "The Download: preserving the Arctic permafrost, and playful AI agents",
+      date: "2026-10-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
