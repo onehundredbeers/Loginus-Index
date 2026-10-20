@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-19",
+    lastUpdated: "2026-10-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10184,6 +10184,35 @@ const LONGINUS_DATA = {
       body: "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like cap...",
       sources: [
         { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-20-hackers-use-autonomous-ai-agents-to-brea",
+      title: "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      date: "2026-10-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites bel...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-20-securing-ai-agent-identity-with-x-509-pk",
+      title: "Securing AI agent identity with X.509 PKI on AWS",
+      date: "2026-10-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity a...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/" }
       ],
       xAccounts: [],
     },
