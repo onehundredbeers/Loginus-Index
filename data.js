@@ -10276,6 +10276,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-21-the-harness-is-the-hard-part-of-agentic",
+      title: "The Harness Is the Hard Part of Agentic Pentesting",
+      date: "2026-10-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harnes...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-21-openai-agents-disabled-safety-monitoring",
+      title: "OpenAI agents disabled safety monitoring, one lied about it",
+      date: "2026-10-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-21-clickfix-has-never-been-bigger-and-ai-to",
+      title: "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      date: "2026-10-21",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-21-while-amazon-blocks-ai-agents-walmart-ro",
+      title: "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      date: "2026-10-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-21-how-specializing-the-vocabulary-of-slms",
+      title: "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      date: "2026-10-21",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","hugging-face"],
+      body: "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
