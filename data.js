@@ -10261,6 +10261,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-21-nvidia-cloud-partners-scale-across-europ",
+      title: "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      date: "2026-10-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Af...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
