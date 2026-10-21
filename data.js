@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-20",
+    lastUpdated: "2026-10-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10228,6 +10228,35 @@ const LONGINUS_DATA = {
       body: "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-20-anthropic-pitches-ai-safety-bill-that-ma",
+      title: "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      date: "2026-10-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-20-hugging-face-ceo-warns-that-netflix-s-op",
+      title: "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      date: "2026-10-20",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","techcrunch"],
+      body: "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/" }
       ],
       xAccounts: [],
     },
