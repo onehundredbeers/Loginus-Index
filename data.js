@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-21",
+    lastUpdated: "2026-10-22",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10343,6 +10343,105 @@ const LONGINUS_DATA = {
       body: "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       sources: [
         { title: "Hugging Face", url: "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-22-the-ai-agent-nobody-owns-watch-expert-we",
+      title: "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      date: "2026-10-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little o...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-opencode-flaw-lets-malicious-mcp-servers",
+      title: "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      date: "2026-10-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own acce...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-china-linked-hackers-use-artex-ai-agents",
+      title: "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-sourc...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-chinese-hackers-spied-on-thousands-of-co",
+      title: "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-spotify-s-current-ai-bet-is-about-being",
+      title: "Spotify’s current AI bet is about being the music service that agents choose",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-leading-european-financial-services-orga",
+      title: "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single fou...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-nvidia-transforms-european-retail-from-d",
+      title: "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["inference-cost","nvidia"],
+      body: "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail lea...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/" }
       ],
       xAccounts: [],
     },
