@@ -10446,6 +10446,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-22-threatsday-ai-secrets-leak-pingcap-sourc",
+      title: "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      date: "2026-10-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["llm-release","the-hacker-news"],
+      body: "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-litellm-release-pipeline-hacked-to-distr",
+      title: "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      date: "2026-10-22",
+      category: "tool",
+      severity: "tool",
+      tags: ["llm-release","bleepingcomputer"],
+      body: "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-1password-launches-a-way-for-ai-agents-t",
+      title: "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      date: "2026-10-22",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-deploy-ai-in-a-hipaa-eligible-environmen",
+      title: "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare en...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-22-stream-low-latency-speech-from-ai-agents",
+      title: "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+      date: "2026-10-22",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser ...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
