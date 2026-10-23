@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-22",
+    lastUpdated: "2026-10-23",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10513,6 +10513,21 @@ const LONGINUS_DATA = {
       body: "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser ...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-23-left-alone-with-nothing-to-do-ai-agents",
+      title: "Left alone with nothing to do, AI agents started playing",
+      date: "2026-10-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/" }
       ],
       xAccounts: [],
     },
