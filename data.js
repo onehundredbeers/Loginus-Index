@@ -10547,6 +10547,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-23-exposed-infrastructure-reveals-how-ranso",
+      title: "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      date: "2026-10-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-23-you-gave-your-ai-agent-access-but-who-is",
+      title: "You gave your AI agent access, but who is giving it orders?",
+      date: "2026-10-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
