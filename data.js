@@ -10532,6 +10532,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-23-critical-x402-sdk-flaw-could-let-malicio",
+      title: "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      date: "2026-10-23",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
