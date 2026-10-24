@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-23",
+    lastUpdated: "2026-10-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10572,6 +10572,21 @@ const LONGINUS_DATA = {
       body: "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime...",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-24-here-are-the-top-ai-agents-that-can-live",
+      title: "Here are the top AI agents that can live in your text messages",
+      date: "2026-10-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/" }
       ],
       xAccounts: [],
     },
