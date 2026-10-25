@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-24",
+    lastUpdated: "2026-10-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10587,6 +10587,35 @@ const LONGINUS_DATA = {
       body: "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-25-openai-ai-agents-demonstrate-vm-escapes",
+      title: "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      date: "2026-10-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-25-ai-coding-agents-hijacked-using-agents-m",
+      title: "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      date: "2026-10-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","bleepingcomputer"],
+      body: "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/" }
       ],
       xAccounts: [],
     },
