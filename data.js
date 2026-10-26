@@ -10635,6 +10635,91 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-26-when-an-ai-agent-is-the-incident-the-ide",
+      title: "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      date: "2026-10-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-26-spacex-locks-in-40b-gpu-financing-deal-w",
+      title: "SpaceX locks in $40B GPU financing deal with Apollo",
+      date: "2026-10-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-26-anthropic-officially-files-for-its-publi",
+      title: "Anthropic officially files for its public debut",
+      date: "2026-10-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-26-the-download-everyday-ai-harms-and-the-r",
+      title: "The Download: everyday AI harms and the race to nuclear spaceflight",
+      date: "2026-10-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of t...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-26-the-focus-on-ai-safety-disasters-ignores",
+      title: "The focus on AI safety disasters ignores everyday harms",
+      date: "2026-10-26",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-safety","mit-technology-review"],
+      body: "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-26-groundhog-day-for-ai-agents-prompt-cachi",
+      title: "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      date: "2026-10-26",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
