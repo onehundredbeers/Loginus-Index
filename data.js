@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-25",
+    lastUpdated: "2026-10-26",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10616,6 +10616,21 @@ const LONGINUS_DATA = {
       body: "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-26-malicious-file-in-downloads-folder-tries",
+      title: "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      date: "2026-10-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html" }
       ],
       xAccounts: [],
     },
