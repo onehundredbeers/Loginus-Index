@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-26",
+    lastUpdated: "2026-10-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10716,6 +10716,21 @@ const LONGINUS_DATA = {
       body: "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-26-openai-launches-gpt-6-1-terra-with-3x-fa",
+      title: "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      date: "2026-10-26",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/" }
       ],
       xAccounts: [],
     },
