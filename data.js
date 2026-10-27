@@ -10750,6 +10750,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-27-cyberstrikeai-uses-44-ai-agents-to-autom",
+      title: "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      date: "2026-10-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat acto...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-27-warp-discloses-breach-exposing-ai-agent",
+      title: "Warp discloses breach exposing AI agent logs, user telemetry data",
+      date: "2026-10-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
