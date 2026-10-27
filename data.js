@@ -10779,6 +10779,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-27-bank-of-america-kindly-asks-that-you-don",
+      title: "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      date: "2026-10-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
