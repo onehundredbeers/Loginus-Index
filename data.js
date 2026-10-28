@@ -10809,6 +10809,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-28-as-ai-agents-reshape-the-web-google-open",
+      title: "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      date: "2026-10-28",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
