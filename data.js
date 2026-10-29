@@ -10881,6 +10881,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-29-threatsday-critical-firewall-flaws-banki",
+      title: "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      date: "2026-10-29",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from fami...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-29-hugging-face-malware-campaign-returns-to",
+      title: "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      date: "2026-10-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","bleepingcomputer"],
+      body: "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-29-into-the-omniverse-how-developers-turn-i",
+      title: "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      date: "2026-10-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for expl...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
