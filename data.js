@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-28",
+    lastUpdated: "2026-10-29",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10820,6 +10820,63 @@ const LONGINUS_DATA = {
       body: "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-29-3-ways-ai-agents-already-operate-in-your",
+      title: "3 Ways AI Agents Already Operate in Your Browser",
+      date: "2026-10-29",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-29-wabi-the-ai-agent-that-builds-mini-apps",
+      title: "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      date: "2026-10-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-29-the-download-ai-agent-tracking-and-clima",
+      title: "The Download: AI agent tracking and climate feedback loops",
+      date: "2026-10-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-29-we-urgently-need-to-monitor-ai-agents-ac",
+      title: "We urgently need to monitor AI agents’ actions in real time",
+      date: "2026-10-29",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/" }
       ],
       xAccounts: [],
     },
