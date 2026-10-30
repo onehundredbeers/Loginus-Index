@@ -10939,6 +10939,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-10-30-doordash-said-it-s-only-received-several",
+      title: "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      date: "2026-10-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "DoorDash said that it is open to working with third-party agent makers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-10-30-things-that-go-beep-in-the-night-agentic",
+      title: "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      date: "2026-10-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents buil...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
