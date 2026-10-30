@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-29",
+    lastUpdated: "2026-10-30",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10920,6 +10920,21 @@ const LONGINUS_DATA = {
       body: "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for expl...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-30-official-claude-code-vs-code-extension-c",
+      title: "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      date: "2026-10-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced to the compromise of the Cursor Marketplace, prompting the AI coding platform...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html" }
       ],
       xAccounts: [],
     },
