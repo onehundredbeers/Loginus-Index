@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-30",
+    lastUpdated: "2026-10-31",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10979,6 +10979,21 @@ const LONGINUS_DATA = {
       body: "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-10-30-last-minute-halloween-costumes-for-tech",
+      title: "Last-minute Halloween costumes for tech nerds",
+      date: "2026-10-30",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/" }
       ],
       xAccounts: [],
     },
