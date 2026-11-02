@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-10-31",
+    lastUpdated: "2026-11-02",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -10994,6 +10994,63 @@ const LONGINUS_DATA = {
       body: "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-02-critical-langflow-flaws-could-let-unauth",
+      title: "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      date: "2026-11-02",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has th...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-02-is-your-soc-ready-for-ai-agents-a-maturi",
+      title: "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      date: "2026-11-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next deci...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-02-stop-counting-tokens-start-counting-what",
+      title: "Stop counting tokens, start counting what ships",
+      date: "2026-11-02",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-02-build-efficient-agents-with-knowledge-di",
+      title: "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      date: "2026-11-02",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-c...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/" }
       ],
       xAccounts: [],
     },
