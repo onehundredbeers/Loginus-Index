@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-02",
+    lastUpdated: "2026-11-03",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11051,6 +11051,21 @@ const LONGINUS_DATA = {
       body: "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-c...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-03-y-combinator-s-garry-tan-uses-ai-agents",
+      title: "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      date: "2026-11-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/" }
       ],
       xAccounts: [],
     },
