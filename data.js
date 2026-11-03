@@ -11070,6 +11070,91 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-03-binance-reveals-how-fake-job-interviews",
+      title: "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      date: "2026-11-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","the-hacker-news"],
+      body: "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack ta...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-03-gartner-predicts-socs-will-have-50-more",
+      title: "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      date: "2026-11-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure manag...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-03-google-will-let-schools-disable-its-ai-t",
+      title: "Google will let schools disable its AI tools, but not without sacrificing Search",
+      date: "2026-11-03",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","techcrunch"],
+      body: "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-03-the-download-controlling-ai-agents-and-s",
+      title: "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      date: "2026-11-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems t...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-03-how-reverse-game-theory-could-keep-ai-ag",
+      title: "How “reverse game theory” could keep AI agents in check",
+      date: "2026-11-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-03-servicenow-on-behalf-of-token-exchange-w",
+      title: "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      date: "2026-11-03",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or c...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
