@@ -11254,6 +11254,105 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-05-meta-says-us-users-can-now-video-chat-wi",
+      title: "Meta says US users can now video chat with their Muse AI avatar",
+      date: "2026-11-05",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-openai-released-a-new-cybersecurity-mode",
+      title: "OpenAI released a new cybersecurity model. Is that enough?",
+      date: "2026-11-05",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-axiom-math-wants-to-keep-ai-slop-out-of",
+      title: "Axiom Math wants to keep AI slop out of mathematics",
+      date: "2026-11-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-aina-s-smart-ring-has-a-screen-a-joystic",
+      title: "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      date: "2026-11-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-vera-delivers-the-best-of-both-worlds-hi",
+      title: "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      date: "2026-11-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need C...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-into-the-omniverse-how-developers-turn-i",
+      title: "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      date: "2026-11-05",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for expl...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-05-the-wizard-of-open-weights-chris-alexiuk",
+      title: "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      date: "2026-11-05",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","open-weights","nvidia"],
+      body: "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language mo...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
