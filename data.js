@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-03",
+    lastUpdated: "2026-11-05",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11151,6 +11151,105 @@ const LONGINUS_DATA = {
       body: "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or c...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-04-almost-no-one-uses-ai-agents-to-book-the",
+      title: "Almost no one uses AI agents to book their Uber, company says",
+      date: "2026-11-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-meta-acquires-ai-coding-startup-conducto",
+      title: "Meta acquires AI coding startup Conductor",
+      date: "2026-11-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","techcrunch"],
+      body: "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-open-source-ai-is-booming-hugging-face-e",
+      title: "Open source AI is booming. Hugging Face explains who profits.",
+      date: "2026-11-04",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gain...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-duckduckgo-pitches-itself-to-schools-ami",
+      title: "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      date: "2026-11-04",
+      category: "hack",
+      severity: "medium",
+      tags: ["ai-restrict","ai-policy","techcrunch"],
+      body: "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-building-on-open-source-ai-hugging-face",
+      title: "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      date: "2026-11-04",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gain...",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-securing-the-agentic-enterprise-with-dat",
+      title: "Securing the agentic enterprise with data lineage",
+      date: "2026-11-04",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. ...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-04-four-layers-of-context-engineering-for-p",
+      title: "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      date: "2026-11-04",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/" }
       ],
       xAccounts: [],
     },
