@@ -11368,6 +11368,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-06-palo-alto-networks-in-talks-to-buy-ai-ag",
+      title: "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      date: "2026-11-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
