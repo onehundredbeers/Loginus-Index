@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-05",
+    lastUpdated: "2026-11-06",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11349,6 +11349,21 @@ const LONGINUS_DATA = {
       body: "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language mo...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-05-airbnb-says-it-s-launching-an-ai-travel",
+      title: "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      date: "2026-11-05",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/" }
       ],
       xAccounts: [],
     },
