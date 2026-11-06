@@ -11383,6 +11383,77 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-06-hundreds-of-artex-ai-hacking-tools-found",
+      title: "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      date: "2026-11-06",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","techcrunch"],
+      body: "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-06-chainalysis-says-hackers-stole-credentia",
+      title: "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      date: "2026-11-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-06-serverless-mcp-server-for-ai-agent-data",
+      title: "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      date: "2026-11-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-06-govern-ai-agent-access-with-okta-cross-a",
+      title: "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      date: "2026-11-06",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allo...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-06-taxbit-assist-a-grounded-role-aware-ai-a",
+      title: "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      date: "2026-11-06",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
