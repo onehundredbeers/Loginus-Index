@@ -11469,6 +11469,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-07-claude-code-s-don-t-ask-again-file-expos",
+      title: "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      date: "2026-11-07",
+      category: "win",
+      severity: "win",
+      tags: ["ai-coding","the-hacker-news"],
+      body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret,...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
