@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-06",
+    lastUpdated: "2026-11-07",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11450,6 +11450,21 @@ const LONGINUS_DATA = {
       body: "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-06-runaway-ai-hacking-agent-behind-workos-b",
+      title: "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      date: "2026-11-06",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","bleepingcomputer"],
+      body: "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/" }
       ],
       xAccounts: [],
     },
