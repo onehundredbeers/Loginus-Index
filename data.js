@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-07",
+    lastUpdated: "2026-11-09",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11480,6 +11480,21 @@ const LONGINUS_DATA = {
       body: "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret,...",
       sources: [
         { title: "The Hacker News", url: "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-09-korea-s-ai-ecosystem-advances-and-secure",
+      title: "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      date: "2026-11-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secur...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/" }
       ],
       xAccounts: [],
     },
