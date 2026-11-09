@@ -11499,6 +11499,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-09-taiwan-based-hacker-used-bossai-ai-agent",
+      title: "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+      date: "2026-11-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video fo...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-09-the-biggest-threat-to-your-grc-job-isn-t",
+      title: "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      date: "2026-11-09",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-09-nancy-pelosi-s-replacement-is-ready-to-r",
+      title: "Nancy Pelosi’s replacement is ready to regulate AI",
+      date: "2026-11-09",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-policy","mit-technology-review"],
+      body: "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wie...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-09-nvidia-announces-new-planned-investments",
+      title: "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      date: "2026-11-09",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","nvidia"],
+      body: "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NV...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/korean-startup-investments-msit/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
