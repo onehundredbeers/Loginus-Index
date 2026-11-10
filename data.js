@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-09",
+    lastUpdated: "2026-11-10",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11552,6 +11552,21 @@ const LONGINUS_DATA = {
       body: "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NV...",
       sources: [
         { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/korean-startup-investments-msit/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-09-professional-work-deserves-professional",
+      title: "Professional work deserves professional tools. Meet AWS Quick.",
+      date: "2026-11-09",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/" }
       ],
       xAccounts: [],
     },
