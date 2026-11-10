@@ -11571,6 +11571,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-10-fireworks-ai-breach-widens-to-expose-cus",
+      title: "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      date: "2026-11-10",
+      category: "hack",
+      severity: "medium",
+      tags: ["ai-breach","model-weights","the-hacker-news"],
+      body: "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice publish...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-10-meta-s-ai-agent-muse-lands-on-apple-watc",
+      title: "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      date: "2026-11-10",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-10-adobe-brings-ai-agents-and-new-creative",
+      title: "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      date: "2026-11-10",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
