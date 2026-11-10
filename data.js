@@ -11614,6 +11614,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-10-fireworks-ai-confirms-wider-breach-affec",
+      title: "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      date: "2026-11-10",
+      category: "hack",
+      severity: "moderate",
+      tags: ["model-weights","the-hacker-news"],
+      body: "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice publish...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-10-openai-anthropic-face-new-oversight-as-n",
+      title: "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      date: "2026-11-10",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-safety","techcrunch"],
+      body: "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
