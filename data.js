@@ -11658,6 +11658,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-11-we-built-an-agent-that-broke-all-of-our",
+      title: "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think ...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-databricks-new-ai-agent-tells-ceo-ali-gh",
+      title: "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-plurai-wants-to-help-ai-agents-work-bett",
+      title: "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-uaef-a-framework-agnostic-system-for-clo",
+      title: "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regr...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
