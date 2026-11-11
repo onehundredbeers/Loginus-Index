@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-10",
+    lastUpdated: "2026-11-11",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11639,6 +11639,21 @@ const LONGINUS_DATA = {
       body: "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-11-microsoft-researchers-show-ai-agents-can",
+      title: "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own pe...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html" }
       ],
       xAccounts: [],
     },
