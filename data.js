@@ -11816,6 +11816,91 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-12-nectar-launches-an-ai-agent-to-automate",
+      title: "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      date: "2026-11-12",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-12-jensen-huang-s-exit-puts-nvidia-s-suppor",
+      title: "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      date: "2026-11-12",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-12-hugging-face-ceo-vows-to-keep-fighting-f",
+      title: "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      date: "2026-11-12",
+      category: "win",
+      severity: "win",
+      tags: ["open-source-ai","techcrunch"],
+      body: "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-12-united-airlines-blocks-ai-agents-from-bo",
+      title: "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      date: "2026-11-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-12-building-a-self-service-llm-gateway-with",
+      title: "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      date: "2026-11-12",
+      category: "win",
+      severity: "win",
+      tags: ["foundation-model","aws-ml"],
+      body: "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-12-run-agents-securely-and-efficiently-with",
+      title: "Run agents securely and efficiently with the next generation AgentCore runtime",
+      date: "2026-11-12",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolati...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
