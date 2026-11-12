@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-11",
+    lastUpdated: "2026-11-12",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11711,6 +11711,63 @@ const LONGINUS_DATA = {
       body: "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regr...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-11-hackers-use-antifox-ai-agents-in-aws-cre",
+      title: "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-with-720m-round-britain-s-fractile-gets",
+      title: "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-the-attendee-s-guide-to-the-aws-re-inven",
+      title: "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","aws-ml"],
+      body: "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a sma...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-11-how-dxc-technology-built-a-multi-model-a",
+      title: "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      date: "2026-11-11",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestr...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/" }
       ],
       xAccounts: [],
     },
