@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-12",
+    lastUpdated: "2026-11-13",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11897,6 +11897,63 @@ const LONGINUS_DATA = {
       body: "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolati...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-13-fbi-says-north-korean-hackers-stole-over",
+      title: "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      date: "2026-11-13",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","the-hacker-news"],
+      body: "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months....",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-13-when-an-ai-agent-goes-wrong-can-you-stop",
+      title: "When an AI Agent Goes Wrong, Can You Stop It?",
+      date: "2026-11-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the acti...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-13-how-one-ai-agent-exposed-five-critical-e",
+      title: "How one AI agent exposed five critical enterprise security gaps",
+      date: "2026-11-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security lead...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-13-chatgpt-s-new-wallet-lets-ai-agents-shop",
+      title: "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      date: "2026-11-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/" }
       ],
       xAccounts: [],
     },
