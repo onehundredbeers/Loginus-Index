@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-13",
+    lastUpdated: "2026-11-14",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11954,6 +11954,35 @@ const LONGINUS_DATA = {
       body: "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-13-jensen-huang-s-departure-blasts-big-hole",
+      title: "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      date: "2026-11-13",
+      category: "win",
+      severity: "win",
+      tags: ["ai-startup-funding","techcrunch"],
+      body: "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-13-ai-agent-startup-langchain-hits-3b-valua",
+      title: "AI agent startup LangChain hits $3B valuation",
+      date: "2026-11-13",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/" }
       ],
       xAccounts: [],
     },
