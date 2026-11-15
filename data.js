@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-14",
+    lastUpdated: "2026-11-15",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11983,6 +11983,21 @@ const LONGINUS_DATA = {
       body: "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-15-fbi-warns-artex-ai-hacking-tool-is-power",
+      title: "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      date: "2026-11-15",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-hack","bleepingcomputer"],
+      body: "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/" }
       ],
       xAccounts: [],
     },
