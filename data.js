@@ -12032,6 +12032,133 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-16-google-finds-hackers-using-ai-agents-to",
+      title: "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      date: "2026-11-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-california-sues-openai-over-ai-agents-es",
+      title: "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      date: "2026-11-16",
+      category: "tool",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world org...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-google-warns-that-fully-automated-ai-att",
+      title: "Google warns that fully-automated AI attacks are coming soon",
+      date: "2026-11-16",
+      category: "hack",
+      severity: "moderate",
+      tags: ["ai-attack","bleepingcomputer"],
+      body: "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-openai-releases-a-new-image-classifier-a",
+      title: "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      date: "2026-11-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-release","techcrunch"],
+      body: "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-us-tightens-ai-chip-export-controls-to-d",
+      title: "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      date: "2026-11-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-building-trustworthy-ai-by-fencing-it-in",
+      title: "Building trustworthy AI by fencing it in, not predicting it",
+      date: "2026-11-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule ha...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-building-ai-that-can-work-across-the-ent",
+      title: "Building AI that can work across the enterprise",
+      date: "2026-11-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-nvidia-cuda-x-libraries-give-agents-the",
+      title: "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      date: "2026-11-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","nvidia"],
+      body: "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more co...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-16-how-moengage-built-agentic-customer-enga",
+      title: "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      date: "2026-11-16",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while g...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
