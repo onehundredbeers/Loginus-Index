@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-15",
+    lastUpdated: "2026-11-16",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -11998,6 +11998,21 @@ const LONGINUS_DATA = {
       body: "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
       sources: [
         { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-16-ai-day-seoul-brings-together-korea-s-ind",
+      title: "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      date: "2026-11-16",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “p...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/" }
       ],
       xAccounts: [],
     },
