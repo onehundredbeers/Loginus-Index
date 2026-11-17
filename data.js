@@ -12188,6 +12188,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-17-apple-tightens-macos-app-permissions-to",
+      title: "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      date: "2026-11-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of it...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
