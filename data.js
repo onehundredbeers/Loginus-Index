@@ -12203,6 +12203,63 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-17-grok-bot-took-unapproved-actions-ignored",
+      title: "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      date: "2026-11-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-17-ian-buck-kicks-off-nvidia-s-week-at-sc26",
+      title: "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      date: "2026-11-17",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","nvidia"],
+      body: "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expande...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/ian-buck-sc26/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-17-secure-oauth-patterns-for-snowflake-cort",
+      title: "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+      date: "2026-11-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organizati...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-17-build-whatsapp-ai-agents-with-amazon-bed",
+      title: "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      date: "2026-11-17",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
