@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-17",
+    lastUpdated: "2026-11-18",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12256,6 +12256,105 @@ const LONGINUS_DATA = {
       body: "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-18-coinbase-blocks-4-7-million-in-transfers",
+      title: "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      date: "2026-11-18",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-from-deepfakes-to-helpdesk-impersonation",
+      title: "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      date: "2026-11-18",
+      category: "hack",
+      severity: "moderate",
+      tags: ["deepfake","bleepingcomputer"],
+      body: "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineerin...",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-more-banks-say-customers-using-ai-agents",
+      title: "More banks say customers using AI agents are on their own — even if they get hacked",
+      date: "2026-11-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-felicis-leads-7-5m-bet-on-unsiloed-ai-to",
+      title: "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      date: "2026-11-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-this-smell-startup-says-its-ai-nose-is-a",
+      title: "This smell startup says its AI nose is as good as a human’s",
+      date: "2026-11-18",
+      category: "hack",
+      severity: "moderate",
+      tags: ["training-data","mit-technology-review"],
+      body: "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI star...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-nvidia-rtx-spark-compact-desktops-out-no",
+      title: "NVIDIA RTX Spark Compact Desktops Out Now",
+      date: "2026-11-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local ...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-from-reporting-to-reasoning-getting-ente",
+      title: "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      date: "2026-11-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/" }
       ],
       xAccounts: [],
     },
