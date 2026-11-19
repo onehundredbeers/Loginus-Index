@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-18",
+    lastUpdated: "2026-11-19",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12355,6 +12355,77 @@ const LONGINUS_DATA = {
       body: "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-19-google-gives-gemini-the-ability-to-use-y",
+      title: "Google gives Gemini the ability to use your Mac for you",
+      date: "2026-11-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-meta-s-ai-agent-muse-is-mixing-up-conver",
+      title: "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      date: "2026-11-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-into-the-omniverse-how-developers-turn-i",
+      title: "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      date: "2026-11-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","nvidia"],
+      body: "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for expl...",
+      sources: [
+        { title: "NVIDIA", url: "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-protect-agent-tool-calls-with-skyflow-an",
+      title: "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      date: "2026-11-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-18-exa-boosts-embedding-throughput-by-50-to",
+      title: "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      date: "2026-11-18",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","aws-ml"],
+      body: "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/" }
       ],
       xAccounts: [],
     },
