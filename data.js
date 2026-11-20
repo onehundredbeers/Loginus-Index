@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-19",
+    lastUpdated: "2026-11-20",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12426,6 +12426,63 @@ const LONGINUS_DATA = {
       body: "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching...",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-20-apple-may-be-developing-its-own-ai-agent",
+      title: "Apple may be developing its own AI agent that runs your Mac",
+      date: "2026-11-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-these-tech-outages-are-giving-y2k-ai-age",
+      title: "These tech outages are giving Y2K, AI agent style",
+      date: "2026-11-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-enable-ai-agents-to-pay-for-aws-marketpl",
+      title: "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      date: "2026-11-19",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","aws-ml"],
+      body: "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per re...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-19-how-the-bmw-group-governs-hundreds-of-ag",
+      title: "How the BMW Group governs hundreds of agents across thousands of developers",
+      date: "2026-11-19",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","aws-ml"],
+      body: "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/" }
       ],
       xAccounts: [],
     },
