@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-20",
+    lastUpdated: "2026-11-21",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12483,6 +12483,49 @@ const LONGINUS_DATA = {
       body: "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
       sources: [
         { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-20-the-path-to-ai-autonomy-in-the-soc",
+      title: "The Path to AI Autonomy in the SOC",
+      date: "2026-11-20",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfort...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-20-hackers-use-autonomous-ai-tool-cairn-to",
+      title: "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      date: "2026-11-20",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-tool","bleepingcomputer"],
+      body: "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-21-cut-self-hosted-llm-cost-and-latency-wit",
+      title: "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      date: "2026-11-21",
+      category: "tool",
+      severity: "tool",
+      tags: ["inference-cost","aws-ml"],
+      body: "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which...",
+      sources: [
+        { title: "AWS ML", url: "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/" }
       ],
       xAccounts: [],
     },
