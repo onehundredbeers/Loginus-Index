@@ -12530,6 +12530,35 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-21-attackers-ai-agents-found-a-zero-day-in",
+      title: "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      date: "2026-11-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outs...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-21-signal-blocks-ai-agents-from-reading-pri",
+      title: "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      date: "2026-11-21",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions w...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
