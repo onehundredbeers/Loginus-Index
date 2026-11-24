@@ -12617,6 +12617,119 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-24-hackers-exploit-n-able-mailassure-flaw-w",
+      title: "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVS...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-even-the-best-ai-agents-struggle-with-ev",
+      title: "Even the best AI agents struggle with everyday life",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-walmart-teams-up-with-meta-to-bring-blac",
+      title: "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-uk-warns-ai-driven-cyberattacks-are-expo",
+      title: "UK warns AI-driven cyberattacks are exposing years of weak security",
+      date: "2026-11-24",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-hack","techcrunch"],
+      body: "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-meta-brings-its-muse-ai-assistant-direct",
+      title: "Meta brings its Muse AI assistant directly into Instagram DMs",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-raising-the-stakes-for-enterprise-networ",
+      title: "Raising the stakes for enterprise networks with AI modernization",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","mit-technology-review"],
+      body: "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic tha...",
+      sources: [
+        { title: "MIT Technology Review", url: "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-amazon-says-hackers-ai-agents-found-and",
+      title: "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      date: "2026-11-24",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","ars-technica"],
+      body: "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      sources: [
+        { title: "Ars Technica", url: "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-24-zrozumie-palantir-fakty-i-mity",
+      title: "Zrozumieć Palantir: fakty i mity",
+      date: "2026-11-24",
+      category: "tool",
+      severity: "tool",
+      tags: ["open-source-model","palantir"],
+      body: "10 pytań dotyczących technologii, bezpieczeństwa danych, kontroli nad systemem oraz tego, kto podejmuje decyzje(Scroll down for English translation below)Czym właściwie zajmuje się Palantir? Czy firma ma dostęp do danych swoich klientów? Czy jej oprogramowanie może działać w środowiskach utrzymyw...",
+      sources: [
+        { title: "Palantir", url: "https://blog.palantir.com/zrozumie%C4%87-palantir-fakty-i-mity-afa49bcfb8ab?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
