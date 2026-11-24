@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-21",
+    lastUpdated: "2026-11-24",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12570,6 +12570,49 @@ const LONGINUS_DATA = {
       body: "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       sources: [
         { title: "TechCrunch", url: "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-23-ai-agents-are-creating-a-shared-responsi",
+      title: "AI Agents Are Creating a Shared Responsibility Gap",
+      date: "2026-11-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-23-anthropic-launches-claude-ship-letting-a",
+      title: "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      date: "2026-11-23",
+      category: "tool",
+      severity: "tool",
+      tags: ["ai-agent","techcrunch"],
+      body: "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-23-supertake-raises-20m-to-let-ai-agents-tu",
+      title: "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      date: "2026-11-23",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/" }
       ],
       xAccounts: [],
     },
