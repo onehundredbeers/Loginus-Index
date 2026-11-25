@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-24",
+    lastUpdated: "2026-11-25",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12726,6 +12726,21 @@ const LONGINUS_DATA = {
       body: "10 pytań dotyczących technologii, bezpieczeństwa danych, kontroli nad systemem oraz tego, kto podejmuje decyzje(Scroll down for English translation below)Czym właściwie zajmuje się Palantir? Czy firma ma dostęp do danych swoich klientów? Czy jej oprogramowanie może działać w środowiskach utrzymyw...",
       sources: [
         { title: "Palantir", url: "https://blog.palantir.com/zrozumie%C4%87-palantir-fakty-i-mity-afa49bcfb8ab?source=rss----3c87dc14372f---4" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-25-amazon-and-meta-reportedly-in-talks-to-l",
+      title: "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      date: "2026-11-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","techcrunch"],
+      body: "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/" }
       ],
       xAccounts: [],
     },
