@@ -12745,6 +12745,49 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-25-italy-and-switzerland-warn-of-autonomous",
+      title: "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      date: "2026-11-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","bleepingcomputer"],
+      body: "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      sources: [
+        { title: "BleepingComputer", url: "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-25-character-ai-s-plan-to-auction-off-users",
+      title: "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      date: "2026-11-25",
+      category: "legislation",
+      severity: "moderate",
+      tags: ["ai-ban","techcrunch"],
+      body: "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/" }
+      ],
+      xAccounts: [],
+    },
+
+    {
+      id: "2026-11-25-where-scientists-draw-the-line-on-ai-age",
+      title: "Where scientists draw the line on AI agents",
+      date: "2026-11-25",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","hugging-face"],
+      body: "Where scientists draw the line on AI agents",
+      sources: [
+        { title: "Hugging Face", url: "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
