@@ -12803,6 +12803,21 @@ const LONGINUS_DATA = {
       xAccounts: [],
     },
 
+
+    {
+      id: "2026-11-27-switzerland-confirms-ai-assisted-cyberat",
+      title: "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      date: "2026-11-27",
+      category: "win",
+      severity: "win",
+      tags: ["ai-agent","the-hacker-news"],
+      body: "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded...",
+      sources: [
+        { title: "The Hacker News", url: "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html" }
+      ],
+      xAccounts: [],
+    },
+
   ],
 };
 
