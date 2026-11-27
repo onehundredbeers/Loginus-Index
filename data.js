@@ -1,7 +1,7 @@
 const LONGINUS_DATA = {
 
   meta: {
-    lastUpdated: "2026-11-25",
+    lastUpdated: "2026-11-27",
     threatLevel: "ELEVATED",
     accelerationStatus: "ADVANCING",
     entryCount: 0,
@@ -12784,6 +12784,21 @@ const LONGINUS_DATA = {
       body: "Where scientists draw the line on AI agents",
       sources: [
         { title: "Hugging Face", url: "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents" }
+      ],
+      xAccounts: [],
+    },
+
+
+    {
+      id: "2026-11-26-nvidia-hits-pause-on-chip-shipments-to-s",
+      title: "Nvidia hits pause on chip shipments to Southeast Asia",
+      date: "2026-11-26",
+      category: "win",
+      severity: "win",
+      tags: ["ai-chip","techcrunch"],
+      body: "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      sources: [
+        { title: "TechCrunch", url: "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/" }
       ],
       xAccounts: [],
     },
